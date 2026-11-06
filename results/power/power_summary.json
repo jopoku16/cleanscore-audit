@@ -1,0 +1,16 @@
+{
+  "gsm8k": {
+    "mde_min": 0.0347,
+    "mde_max": 0.0577,
+    "n_for_80pct_power_at_delta_0.05": 400,
+    "power_at_n200_delta_0.05": 0.5573,
+    "power_at_n200_delta_0.10": 0.9543
+  },
+  "arc": {
+    "mde_min": 0.0286,
+    "mde_max": 0.0397,
+    "n_for_80pct_power_at_delta_0.05": 200,
+    "power_at_n200_delta_0.05": 0.8438,
+    "power_at_n200_delta_0.10": 0.9995
+  }
+}

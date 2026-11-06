@@ -1,0 +1,24 @@
+{
+  "arc_threshold": 0.8,
+  "gsm8k": {
+    "parents": 200,
+    "parents_at_or_above_threshold": 21,
+    "similarity_median": 0.6643,
+    "similarity_max": 0.8947,
+    "pooled_pearson_r": -0.0141,
+    "pooled_p_value": 0.6552,
+    "max_abs_shift": 0.0129,
+    "mean_gap_near_copy_parents": -0.0429,
+    "mean_gap_other_parents": 0.0156,
+    "welch_p": 0.1822
+  },
+  "arc": {
+    "parents": 200,
+    "parents_at_or_above_threshold": 0,
+    "similarity_median": 0.567,
+    "similarity_max": 0.7895,
+    "pooled_pearson_r": -0.0392,
+    "pooled_p_value": 0.216,
+    "max_abs_shift": 0.0
+  }
+}

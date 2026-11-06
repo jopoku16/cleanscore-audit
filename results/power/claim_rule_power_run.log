@@ -1,0 +1,144 @@
+gsm8k n=200 m= 60 delta=0.00 primary=0.092 claim_rule=0.000
+gsm8k n=200 m= 60 delta=0.05 primary=0.546 claim_rule=0.006
+gsm8k n=200 m= 60 delta=0.10 primary=0.959 claim_rule=0.054
+gsm8k n=200 m= 60 delta=0.15 primary=1.000 claim_rule=0.237
+gsm8k n=200 m= 60 delta=0.20 primary=1.000 claim_rule=0.586
+gsm8k n=200 m= 60 delta=0.30 primary=1.000 claim_rule=0.972
+gsm8k n=200 m=100 delta=0.00 primary=0.094 claim_rule=0.001
+gsm8k n=200 m=100 delta=0.05 primary=0.563 claim_rule=0.005
+gsm8k n=200 m=100 delta=0.10 primary=0.962 claim_rule=0.080
+gsm8k n=200 m=100 delta=0.15 primary=0.999 claim_rule=0.360
+gsm8k n=200 m=100 delta=0.20 primary=1.000 claim_rule=0.750
+gsm8k n=200 m=100 delta=0.30 primary=1.000 claim_rule=0.996
+gsm8k n=200 m=200 delta=0.00 primary=0.097 claim_rule=0.000
+gsm8k n=200 m=200 delta=0.05 primary=0.553 claim_rule=0.010
+gsm8k n=200 m=200 delta=0.10 primary=0.953 claim_rule=0.123
+gsm8k n=200 m=200 delta=0.15 primary=1.000 claim_rule=0.542
+gsm8k n=200 m=200 delta=0.20 primary=1.000 claim_rule=0.917
+gsm8k n=200 m=200 delta=0.30 primary=1.000 claim_rule=1.000
+gsm8k n=200 m=400 delta=0.00 primary=0.093 claim_rule=0.000
+gsm8k n=200 m=400 delta=0.05 primary=0.552 claim_rule=0.016
+gsm8k n=200 m=400 delta=0.10 primary=0.960 claim_rule=0.208
+gsm8k n=200 m=400 delta=0.15 primary=1.000 claim_rule=0.726
+gsm8k n=200 m=400 delta=0.20 primary=1.000 claim_rule=0.974
+gsm8k n=200 m=400 delta=0.30 primary=1.000 claim_rule=1.000
+gsm8k n=400 m= 60 delta=0.00 primary=0.141 claim_rule=0.000
+gsm8k n=400 m= 60 delta=0.05 primary=0.900 claim_rule=0.011
+gsm8k n=400 m= 60 delta=0.10 primary=1.000 claim_rule=0.116
+gsm8k n=400 m= 60 delta=0.15 primary=1.000 claim_rule=0.425
+gsm8k n=400 m= 60 delta=0.20 primary=1.000 claim_rule=0.783
+gsm8k n=400 m= 60 delta=0.30 primary=1.000 claim_rule=0.996
+gsm8k n=400 m=100 delta=0.00 primary=0.134 claim_rule=0.000
+gsm8k n=400 m=100 delta=0.05 primary=0.894 claim_rule=0.012
+gsm8k n=400 m=100 delta=0.10 primary=1.000 claim_rule=0.167
+gsm8k n=400 m=100 delta=0.15 primary=1.000 claim_rule=0.612
+gsm8k n=400 m=100 delta=0.20 primary=1.000 claim_rule=0.928
+gsm8k n=400 m=100 delta=0.30 primary=1.000 claim_rule=1.000
+gsm8k n=400 m=200 delta=0.00 primary=0.146 claim_rule=0.000
+gsm8k n=400 m=200 delta=0.05 primary=0.889 claim_rule=0.021
+gsm8k n=400 m=200 delta=0.10 primary=1.000 claim_rule=0.317
+gsm8k n=400 m=200 delta=0.15 primary=1.000 claim_rule=0.850
+gsm8k n=400 m=200 delta=0.20 primary=1.000 claim_rule=0.996
+gsm8k n=400 m=200 delta=0.30 primary=1.000 claim_rule=1.000
+gsm8k n=400 m=400 delta=0.00 primary=0.139 claim_rule=0.000
+gsm8k n=400 m=400 delta=0.05 primary=0.896 claim_rule=0.031
+gsm8k n=400 m=400 delta=0.10 primary=1.000 claim_rule=0.492
+gsm8k n=400 m=400 delta=0.15 primary=1.000 claim_rule=0.965
+gsm8k n=400 m=400 delta=0.20 primary=1.000 claim_rule=1.000
+gsm8k n=400 m=400 delta=0.30 primary=1.000 claim_rule=1.000
+gsm8k n=800 m= 60 delta=0.00 primary=0.348 claim_rule=0.000
+gsm8k n=800 m= 60 delta=0.05 primary=0.997 claim_rule=0.029
+gsm8k n=800 m= 60 delta=0.10 primary=1.000 claim_rule=0.221
+gsm8k n=800 m= 60 delta=0.15 primary=1.000 claim_rule=0.619
+gsm8k n=800 m= 60 delta=0.20 primary=1.000 claim_rule=0.911
+gsm8k n=800 m= 60 delta=0.30 primary=1.000 claim_rule=0.999
+gsm8k n=800 m=100 delta=0.00 primary=0.328 claim_rule=0.001
+gsm8k n=800 m=100 delta=0.05 primary=0.999 claim_rule=0.037
+gsm8k n=800 m=100 delta=0.10 primary=1.000 claim_rule=0.338
+gsm8k n=800 m=100 delta=0.15 primary=1.000 claim_rule=0.828
+gsm8k n=800 m=100 delta=0.20 primary=1.000 claim_rule=0.988
+gsm8k n=800 m=100 delta=0.30 primary=1.000 claim_rule=1.000
+gsm8k n=800 m=200 delta=0.00 primary=0.333 claim_rule=0.000
+gsm8k n=800 m=200 delta=0.05 primary=0.999 claim_rule=0.056
+gsm8k n=800 m=200 delta=0.10 primary=1.000 claim_rule=0.590
+gsm8k n=800 m=200 delta=0.15 primary=1.000 claim_rule=0.976
+gsm8k n=800 m=200 delta=0.20 primary=1.000 claim_rule=1.000
+gsm8k n=800 m=200 delta=0.30 primary=1.000 claim_rule=1.000
+gsm8k n=800 m=400 delta=0.00 primary=0.329 claim_rule=0.000
+gsm8k n=800 m=400 delta=0.05 primary=1.000 claim_rule=0.100
+gsm8k n=800 m=400 delta=0.10 primary=1.000 claim_rule=0.835
+gsm8k n=800 m=400 delta=0.15 primary=1.000 claim_rule=0.999
+gsm8k n=800 m=400 delta=0.20 primary=1.000 claim_rule=1.000
+gsm8k n=800 m=400 delta=0.30 primary=1.000 claim_rule=1.000
+arc   n=200 m= 40 delta=0.00 primary=0.093 claim_rule=0.001
+arc   n=200 m= 40 delta=0.05 primary=0.846 claim_rule=0.020
+arc   n=200 m= 40 delta=0.10 primary=0.999 claim_rule=0.102
+arc   n=200 m= 40 delta=0.15 primary=1.000 claim_rule=0.338
+arc   n=200 m= 40 delta=0.20 primary=1.000 claim_rule=0.635
+arc   n=200 m= 40 delta=0.30 primary=1.000 claim_rule=0.966
+arc   n=200 m=100 delta=0.00 primary=0.102 claim_rule=0.001
+arc   n=200 m=100 delta=0.05 primary=0.841 claim_rule=0.019
+arc   n=200 m=100 delta=0.10 primary=0.999 claim_rule=0.202
+arc   n=200 m=100 delta=0.15 primary=1.000 claim_rule=0.629
+arc   n=200 m=100 delta=0.20 primary=1.000 claim_rule=0.930
+arc   n=200 m=100 delta=0.30 primary=1.000 claim_rule=1.000
+arc   n=200 m=200 delta=0.00 primary=0.097 claim_rule=0.001
+arc   n=200 m=200 delta=0.05 primary=0.862 claim_rule=0.037
+arc   n=200 m=200 delta=0.10 primary=1.000 claim_rule=0.371
+arc   n=200 m=200 delta=0.15 primary=1.000 claim_rule=0.867
+arc   n=200 m=200 delta=0.20 primary=1.000 claim_rule=0.994
+arc   n=200 m=200 delta=0.30 primary=1.000 claim_rule=1.000
+arc   n=200 m=400 delta=0.00 primary=0.095 claim_rule=0.000
+arc   n=200 m=400 delta=0.05 primary=0.849 claim_rule=0.063
+arc   n=200 m=400 delta=0.10 primary=0.999 claim_rule=0.564
+arc   n=200 m=400 delta=0.15 primary=1.000 claim_rule=0.972
+arc   n=200 m=400 delta=0.20 primary=1.000 claim_rule=1.000
+arc   n=200 m=400 delta=0.30 primary=1.000 claim_rule=1.000
+arc   n=400 m= 40 delta=0.00 primary=0.250 claim_rule=0.001
+arc   n=400 m= 40 delta=0.05 primary=0.997 claim_rule=0.032
+arc   n=400 m= 40 delta=0.10 primary=1.000 claim_rule=0.185
+arc   n=400 m= 40 delta=0.15 primary=1.000 claim_rule=0.492
+arc   n=400 m= 40 delta=0.20 primary=1.000 claim_rule=0.779
+arc   n=400 m= 40 delta=0.30 primary=1.000 claim_rule=0.989
+arc   n=400 m=100 delta=0.00 primary=0.248 claim_rule=0.001
+arc   n=400 m=100 delta=0.05 primary=0.997 claim_rule=0.049
+arc   n=400 m=100 delta=0.10 primary=1.000 claim_rule=0.386
+arc   n=400 m=100 delta=0.15 primary=1.000 claim_rule=0.840
+arc   n=400 m=100 delta=0.20 primary=1.000 claim_rule=0.986
+arc   n=400 m=100 delta=0.30 primary=1.000 claim_rule=1.000
+arc   n=400 m=200 delta=0.00 primary=0.249 claim_rule=0.002
+arc   n=400 m=200 delta=0.05 primary=0.997 claim_rule=0.098
+arc   n=400 m=200 delta=0.10 primary=1.000 claim_rule=0.645
+arc   n=400 m=200 delta=0.15 primary=1.000 claim_rule=0.985
+arc   n=400 m=200 delta=0.20 primary=1.000 claim_rule=1.000
+arc   n=400 m=200 delta=0.30 primary=1.000 claim_rule=1.000
+arc   n=400 m=400 delta=0.00 primary=0.236 claim_rule=0.001
+arc   n=400 m=400 delta=0.05 primary=0.996 claim_rule=0.170
+arc   n=400 m=400 delta=0.10 primary=1.000 claim_rule=0.893
+arc   n=400 m=400 delta=0.15 primary=1.000 claim_rule=1.000
+arc   n=400 m=400 delta=0.20 primary=1.000 claim_rule=1.000
+arc   n=400 m=400 delta=0.30 primary=1.000 claim_rule=1.000
+arc   n=800 m= 40 delta=0.00 primary=0.568 claim_rule=0.003
+arc   n=800 m= 40 delta=0.05 primary=1.000 claim_rule=0.075
+arc   n=800 m= 40 delta=0.10 primary=1.000 claim_rule=0.311
+arc   n=800 m= 40 delta=0.15 primary=1.000 claim_rule=0.625
+arc   n=800 m= 40 delta=0.20 primary=1.000 claim_rule=0.877
+arc   n=800 m= 40 delta=0.30 primary=1.000 claim_rule=0.997
+arc   n=800 m=100 delta=0.00 primary=0.568 claim_rule=0.003
+arc   n=800 m=100 delta=0.05 primary=1.000 claim_rule=0.113
+arc   n=800 m=100 delta=0.10 primary=1.000 claim_rule=0.592
+arc   n=800 m=100 delta=0.15 primary=1.000 claim_rule=0.942
+arc   n=800 m=100 delta=0.20 primary=1.000 claim_rule=0.998
+arc   n=800 m=100 delta=0.30 primary=1.000 claim_rule=1.000
+arc   n=800 m=200 delta=0.00 primary=0.556 claim_rule=0.002
+arc   n=800 m=200 delta=0.05 primary=1.000 claim_rule=0.216
+arc   n=800 m=200 delta=0.10 primary=1.000 claim_rule=0.873
+arc   n=800 m=200 delta=0.15 primary=1.000 claim_rule=0.999
+arc   n=800 m=200 delta=0.20 primary=1.000 claim_rule=1.000
+arc   n=800 m=200 delta=0.30 primary=1.000 claim_rule=1.000
+arc   n=800 m=400 delta=0.00 primary=0.570 claim_rule=0.003
+arc   n=800 m=400 delta=0.05 primary=1.000 claim_rule=0.402
+arc   n=800 m=400 delta=0.10 primary=1.000 claim_rule=0.988
+arc   n=800 m=400 delta=0.15 primary=1.000 claim_rule=1.000
+arc   n=800 m=400 delta=0.20 primary=1.000 claim_rule=1.000
+arc   n=800 m=400 delta=0.30 primary=1.000 claim_rule=1.000

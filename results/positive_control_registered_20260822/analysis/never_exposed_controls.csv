@@ -1,0 +1,6 @@
+set,n,gap_change,ci_low,ci_high,p,contaminated
+gsm8k_unexposed_half,100,0.0,-0.1237,0.1237,1.0,False
+arc_never_contaminated,200,0.0225,-0.0172,0.0622,0.2653,False
+gsm8k_control_bank,60,0.0667,-0.0937,0.227,0.4088,False
+arc_control_bank,40,0.0125,-0.093,0.118,0.8118,False
+gsm8k_exposed_half,100,0.065,-0.0466,0.1766,0.2507,True

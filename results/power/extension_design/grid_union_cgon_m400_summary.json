@@ -1,0 +1,12 @@
+{
+  "reps": 2000,
+  "seed": 20261023,
+  "rho_star": 0.02,
+  "alpha_test": 0.05,
+  "mode": "union",
+  "control_guardrail": true,
+  "control_pool_mean": {
+    "gsm8k": 0.008333333333333333,
+    "arc": -0.005
+  }
+}

@@ -1,0 +1,181 @@
+parent_id,form_id,form_type,prompt,answer
+gsmctl_001,gsmctl_001_pub,public_like,A shuttle ticket costs $7 for adults and $4 for children. A group of 6 adults and 9 children rides the shuttle. How much does the group pay in total?,78
+gsmctl_001,gsmctl_001_v1,fresh_variant_1,"Adult fare on the harbor ferry is $7 and child fare is $4. If 6 adults and 9 children make the crossing together, what is the group's total fare?",78
+gsmctl_001,gsmctl_001_v2,fresh_variant_2,Museum entry is priced at $7 per adult and $4 per child. A school outing brings 6 adults and 9 children. What does the outing pay altogether?,78
+gsmctl_002,gsmctl_002_pub,public_like,One can of paint covers 12 square meters. Nuru's wall measures 8 meters by 6 meters. Each can costs $5. How much does Nuru spend on paint to cover the wall?,20
+gsmctl_002,gsmctl_002_v1,fresh_variant_1,"A tin of varnish coats 12 square meters. Jabari's floor is 8 meters by 6 meters, and each tin sells for $5. What does Jabari pay for enough varnish to coat the floor?",20
+gsmctl_002,gsmctl_002_v2,fresh_variant_2,"Each bag of grass seed sows 12 square meters. Lindi's lawn patch measures 8 meters by 6 meters, and a bag costs $5. How much does Lindi spend on seed for the whole patch?",20
+gsmctl_003,gsmctl_003_pub,public_like,Tami reads 14 pages each weekday and 35 pages on each weekend day. How many pages does she read in 2 weeks?,280
+gsmctl_003,gsmctl_003_v1,fresh_variant_1,"On weekdays Sefu writes 14 lines of code notes, and on each weekend day he writes 35 lines. How many lines does he write over 2 weeks?",280
+gsmctl_003,gsmctl_003_v2,fresh_variant_2,"Amara practices 14 minutes of scales every weekday and 35 minutes on each day of the weekend. Across 2 weeks, how many minutes of scales does she practice?",280
+gsmctl_004,gsmctl_004_pub,public_like,Bax saves $15 a week. After 8 weeks he spends $52 on a jacket. How much of his savings is left?,68
+gsmctl_004,gsmctl_004_v1,fresh_variant_1,Every week Rufaro puts away $15. Following 8 weeks of saving she buys boots for $52. What amount of her savings remains?,68
+gsmctl_004,gsmctl_004_v2,fresh_variant_2,"Deng sets aside $15 weekly. Once 8 weeks have passed, he pays $52 for a backpack. How much of the saved money is left over?",68
+gsmctl_005,gsmctl_005_pub,public_like,"A crate holds 18 melons. A farmer fills 7 crates and sells each melon for $3. If 9 melons are rotten and unsold, how much does the farmer earn?",351
+gsmctl_005,gsmctl_005_v1,fresh_variant_1,"Each basket carries 18 pineapples. A grower packs 7 baskets and prices every pineapple at $3. With 9 pineapples spoiled and set aside, what does the grower earn?",351
+gsmctl_005,gsmctl_005_v2,fresh_variant_2,"A box takes 18 coconuts. A trader fills 7 boxes, selling coconuts at $3 apiece, but 9 coconuts are cracked and cannot be sold. How much money does the trader make?",351
+gsmctl_006,gsmctl_006_pub,public_like,"Rehani is 9 years old. Her uncle is 4 times her age. In 6 years, what will be the sum of their ages?",57
+gsmctl_006,gsmctl_006_v1,fresh_variant_1,"Kip is 9, and his aunt's age is 4 times his. What will their ages add up to in 6 years?",57
+gsmctl_006,gsmctl_006_v2,fresh_variant_2,"Ola, aged 9, has a neighbor whose age is 4 times Ola's. After 6 more years, what will be the total of their two ages?",57
+gsmctl_007,gsmctl_007_pub,public_like,A minibus burns 5 liters of fuel per 40 kilometers. Fuel costs $2 per liter. What does a 320-kilometer trip cost in fuel?,80
+gsmctl_007,gsmctl_007_v1,fresh_variant_1,"A fishing boat uses 5 liters of diesel every 40 kilometers, with diesel priced at $2 per liter. How much does the fuel for a 320-kilometer voyage cost?",80
+gsmctl_007,gsmctl_007_v2,fresh_variant_2,"Per 40 kilometers, a delivery van consumes 5 liters of petrol. Petrol runs $2 a liter. What is the petrol cost of driving 320 kilometers?",80
+gsmctl_008,gsmctl_008_pub,public_like,A baker makes 96 buns. She sells three quarters of them in the morning and half of the rest in the afternoon. How many buns remain?,12
+gsmctl_008,gsmctl_008_v1,fresh_variant_1,"A cook fries 96 plantain cakes. Three quarters sell before noon, and half of what is left sells in the afternoon. How many cakes are still unsold?",12
+gsmctl_008,gsmctl_008_v2,fresh_variant_2,A stand bakes 96 pretzels. It sells three quarters of them by midday and then half of the remainder later in the day. How many pretzels are left at closing?,12
+gsmctl_009,gsmctl_009_pub,public_like,Kesi earns $9 an hour for the first 30 hours a week and double that rate for extra hours. She works 36 hours this week. What does she earn?,378
+gsmctl_009,gsmctl_009_v1,fresh_variant_1,"Tando is paid $9 hourly for his first 30 hours each week, and any hour beyond that pays double the rate. This week he logged 36 hours. What is his pay?",378
+gsmctl_009,gsmctl_009_v2,fresh_variant_2,"A seamstress charges $9 an hour up to 30 hours in a week; additional hours bill at double that hourly rate. If she works 36 hours one week, what does she take in?",378
+gsmctl_010,gsmctl_010_pub,public_like,A teacher has 5 boxes of 24 pencils. He gives 3 pencils to each of 32 students. How many pencils are left?,24
+gsmctl_010,gsmctl_010_v1,fresh_variant_1,A coach brings 5 tubes of 24 tennis balls and hands 3 balls to each of the 32 players at practice. How many balls remain?,24
+gsmctl_010,gsmctl_010_v2,fresh_variant_2,"With 5 cartons holding 24 juice boxes each, a chaperone gives 3 juice boxes to every one of 32 campers. How many juice boxes are left over?",24
+gsmctl_011,gsmctl_011_pub,public_like,"A desk is priced at $250. It is marked down 20%, then a further $30 is taken off at the register. What is the final price?",170
+gsmctl_011,gsmctl_011_v1,fresh_variant_1,A bicycle lists for $250. The shop cuts the price by 20% and then subtracts another $30 at checkout. What does the bicycle finally cost?,170
+gsmctl_011,gsmctl_011_v2,fresh_variant_2,"An armchair carries a $250 tag. First it is discounted 20%, and at the till a further $30 comes off. What is the price paid in the end?",170
+gsmctl_012,gsmctl_012_pub,public_like,"A tank holds 900 liters. A pump fills it at 60 liters per minute, but a leak drains 15 liters per minute. Starting empty, how many minutes until the tank is full?",20
+gsmctl_012,gsmctl_012_v1,fresh_variant_1,"A cistern's capacity is 900 liters. Water flows in at 60 liters a minute while a crack lets out 15 liters a minute. From empty, how many minutes does filling the cistern take?",20
+gsmctl_012,gsmctl_012_v2,fresh_variant_2,"A pool trough holds 900 liters. A hose adds 60 liters per minute as an open valve loses 15 liters per minute. Beginning empty, in how many minutes is the trough full?",20
+gsmctl_013,gsmctl_013_pub,public_like,Bila and Twiga share 91 tokens in the ratio of 3 to 4. How many tokens does Twiga receive?,52
+gsmctl_013,gsmctl_013_v1,fresh_variant_1,A stack of 91 coupons is divided between Asha and Zawe in the ratio 3 to 4. What is Zawe's share of the coupons?,52
+gsmctl_013,gsmctl_013_v2,fresh_variant_2,A pot of 91 chips is split between Koki and Mbita in a 3 to 4 ratio. How many chips go to Mbita?,52
+gsmctl_014,gsmctl_014_pub,public_like,A vendor buys eggs at $2 per dozen and sells them at $4 per dozen. Today she sold 15 dozen and paid a $9 market fee. What is her profit?,21
+gsmctl_014,gsmctl_014_v1,fresh_variant_1,A trader purchases limes at $2 a dozen and resells them for $4 a dozen. He moved 15 dozen limes today and covered a $9 stall fee. What profit did he clear?,21
+gsmctl_014,gsmctl_014_v2,fresh_variant_2,"Buying at $2 per dozen and selling at $4 per dozen, a florist sold 15 dozen roses today and paid $9 for her market spot. How much profit remains?",21
+gsmctl_015,gsmctl_015_pub,public_like,"A train has 12 coaches with 48 seats each. On one trip, 450 seats are taken. How many seats are empty?",126
+gsmctl_015,gsmctl_015_v1,fresh_variant_1,"An airliner has 12 cabins of 48 seats apiece. On today's flight, 450 seats are occupied. How many seats sit empty?",126
+gsmctl_015,gsmctl_015_v2,fresh_variant_2,"A stadium section contains 12 blocks of 48 seats. During one match, 450 of the seats are filled. What number of seats remains unoccupied?",126
+gsmctl_016,gsmctl_016_pub,public_like,"Four sacks weigh 23, 31, 27, and 19 kilograms. What is their average weight in kilograms?",25
+gsmctl_016,gsmctl_016_v1,fresh_variant_1,"Four parcels come in at 23, 31, 27, and 19 kilograms. In kilograms, what is the parcels' average weight?",25
+gsmctl_016,gsmctl_016_v2,fresh_variant_2,"The weights of four crates are 23, 31, 27, and 19 kilograms. Find the average crate weight in kilograms.",25
+gsmctl_017,gsmctl_017_pub,public_like,"A phone plan costs $18 a month plus $2 for each gigabyte of data. In March, Duma used 7 gigabytes. In April, she used 11. What did she pay for the two months together?",72
+gsmctl_017,gsmctl_017_v1,fresh_variant_1,An internet subscription runs $18 monthly plus $2 per gigabyte used. Zik used 7 gigabytes in March and 11 in April. What was his combined bill for the two months?,72
+gsmctl_017,gsmctl_017_v2,fresh_variant_2,A streaming service bills $18 a month and adds $2 for every gigabyte downloaded. Lia downloaded 7 gigabytes one month and 11 the next. How much did she pay across both months?,72
+gsmctl_018,gsmctl_018_pub,public_like,A rectangular pen is 14 meters long and 9 meters wide. Fencing costs $6 per meter. What does it cost to fence the pen's full perimeter?,276
+gsmctl_018,gsmctl_018_v1,fresh_variant_1,A garden plot measures 14 meters by 9 meters. Edging is priced at $6 per meter. How much does edging the plot's entire perimeter cost?,276
+gsmctl_018,gsmctl_018_v2,fresh_variant_2,A rectangular paddock runs 14 meters in length and 9 meters in width. Railing sells for $6 a meter. What is the cost of railing the whole perimeter?,276
+gsmctl_019,gsmctl_019_pub,public_like,A library charges 25 cents per day for late books. Jomo returns one book 8 days late and another 14 days late. How many cents does he owe?,550
+gsmctl_019,gsmctl_019_v1,fresh_variant_1,A rental kiosk fines 25 cents a day for overdue discs. Wema brings back one disc 8 days overdue and a second 14 days overdue. What is her fine in cents?,550
+gsmctl_019,gsmctl_019_v2,fresh_variant_2,Late tool returns at a workshop cost 25 cents per day. Bello returns a drill 8 days late and a sander 14 days late. How many cents must Bello pay?,550
+gsmctl_020,gsmctl_020_pub,public_like,"A hall sets out 17 rows of 16 chairs. If 39 chairs are broken and removed, how many chairs remain?",233
+gsmctl_020,gsmctl_020_v1,fresh_variant_1,"For a ceremony, 17 lines of 16 stools are arranged. After 39 stools are found cracked and taken away, how many stools are left?",233
+gsmctl_020,gsmctl_020_v2,fresh_variant_2,"A theater places 17 rows with 16 folding seats per row. When 39 seats are damaged and carried off, what number of seats remains?",233
+gsmctl_021,gsmctl_021_pub,public_like,A choir has 45 singers. Three fifths of them are altos and the rest are sopranos. How many sopranos are there?,18
+gsmctl_021,gsmctl_021_v1,fresh_variant_1,There are 45 dancers in a troupe. Three fifths of the dancers perform in the front line and the rest are in the back line. How many dancers are in the back line?,18
+gsmctl_021,gsmctl_021_v2,fresh_variant_2,A debate society counts 45 members. Three fifths of the members are speakers and the remainder are researchers. How many researchers does the society have?,18
+gsmctl_022,gsmctl_022_pub,public_like,A taxi charges a flat $3 plus $2 per kilometer. Rudi pays $19 for a ride. How many kilometers was the ride?,8
+gsmctl_022,gsmctl_022_v1,fresh_variant_1,A courier bills a $3 base charge plus $2 for each kilometer of delivery distance. Ama's delivery bill comes to $19. Over how many kilometers was the delivery?,8
+gsmctl_022,gsmctl_022_v2,fresh_variant_2,"A rickshaw ride costs a fixed $3 plus $2 a kilometer. If Deji's fare totals $19, how many kilometers did he travel?",8
+gsmctl_023,gsmctl_023_pub,public_like,Each tray holds 12 biscuits. Ama bakes 7 trays and gives away 26 biscuits. How many biscuits does she keep?,58
+gsmctl_023,gsmctl_023_v1,fresh_variant_1,One rack fits 12 kebabs. Zaki grills 7 racks and hands out 26 kebabs to neighbors. How many kebabs does Zaki keep?,58
+gsmctl_023,gsmctl_023_v2,fresh_variant_2,"A sheet holds 12 rolls. After baking 7 sheets, Nomsa donates 26 rolls to the shelter. How many rolls remain with her?",58
+gsmctl_024,gsmctl_024_pub,public_like,"A cyclist rides at 18 kilometers per hour for 2 hours, then at 12 kilometers per hour for 3 hours. How far does the cyclist travel in total?",72
+gsmctl_024,gsmctl_024_v1,fresh_variant_1,A jogger moves at 18 kilometers per hour for 2 hours and then slows to 12 kilometers per hour for another 3 hours. What total distance does the jogger cover?,72
+gsmctl_024,gsmctl_024_v2,fresh_variant_2,"A canoe travels at 18 kilometers per hour for the first 2 hours of a trip, then at 12 kilometers per hour for the next 3 hours. How many kilometers does the canoe travel altogether?",72
+gsmctl_025,gsmctl_025_pub,public_like,"Three siblings split $260. The eldest receives $10 more than the middle sibling, and the middle sibling receives $20 more than the youngest. What does the youngest receive?",70
+gsmctl_025,gsmctl_025_v1,fresh_variant_1,"$260 is divided among three teammates. The captain gets $10 more than the second player, who gets $20 more than the third player. How much does the third player get?",70
+gsmctl_025,gsmctl_025_v2,fresh_variant_2,"Three cousins share out $260. The oldest cousin takes $10 more than the middle cousin, while the middle cousin takes $20 more than the youngest cousin. What amount goes to the youngest?",70
+gsmctl_026,gsmctl_026_pub,public_like,A gym had 120 members in January. Membership rose by 15% in February. How many members did the gym have in February?,138
+gsmctl_026,gsmctl_026_v1,fresh_variant_1,In January a book club counted 120 subscribers. Subscriptions grew by 15% in February. What was the February subscriber count?,138
+gsmctl_026,gsmctl_026_v2,fresh_variant_2,"A pottery studio had 120 students enrolled in January, and enrollment climbed 15% the following month. How many students were enrolled in February?",138
+gsmctl_027,gsmctl_027_pub,public_like,"A workshop consists of a 45-minute talk, a 30-minute practice block, and a 15-minute review. How many minutes long is the workshop?",90
+gsmctl_027,gsmctl_027_v1,fresh_variant_1,"A fitness class runs a 45-minute cardio set, a 30-minute strength block, and a 15-minute stretch. What is the class's total length in minutes?",90
+gsmctl_027,gsmctl_027_v2,fresh_variant_2,"An exam session includes a 45-minute written part, a 30-minute oral part, and a 15-minute feedback part. How many minutes does the whole session last?",90
+gsmctl_028,gsmctl_028_pub,public_like,"Shirts cost $14 each. If you buy 3, you get 1 free. Bem needs 8 shirts. How much does he pay?",84
+gsmctl_028,gsmctl_028_v1,fresh_variant_1,Caps sell at $14 apiece under a deal where buying 3 gets you 1 free. Sena wants to walk out with 8 caps. What does she pay?,84
+gsmctl_028,gsmctl_028_v2,fresh_variant_2,"A store prices towels at $14 each and runs a promotion: buy 3, receive 1 free. Kip needs 8 towels in total. How much money does he hand over?",84
+gsmctl_029,gsmctl_029_pub,public_like,Kande climbs 52 steps to her flat. She goes up and comes down 3 times a day. How many steps does she walk on the stairs in a day?,312
+gsmctl_029,gsmctl_029_v1,fresh_variant_1,The lighthouse stairway has 52 steps. The keeper ascends and descends 3 times daily. How many steps does the keeper take on the stairway each day?,312
+gsmctl_029,gsmctl_029_v2,fresh_variant_2,Jelo's office sits 52 steps above the lobby. He walks up and back down 3 times in a workday. What is his daily step count on those stairs?,312
+gsmctl_030,gsmctl_030_pub,public_like,A farm has 24 sheep and 3 times as many chickens. Each animal gets 2 health tags. How many tags are needed?,192
+gsmctl_030,gsmctl_030_v1,fresh_variant_1,A ranch keeps 24 llamas and 3 times as many ducks. Every animal receives 2 identification bands. How many bands are required?,192
+gsmctl_030,gsmctl_030_v2,fresh_variant_2,On a homestead there are 24 goats plus 3 times that many rabbits. Each animal needs 2 vaccine stickers on its pen card. How many stickers must be prepared?,192
+gsmctl_031,gsmctl_031_pub,public_like,A road trip covers 540 kilometers. Bisa drives at 90 kilometers per hour and takes 2 rest stops of 30 minutes each. How many hours does the trip take in total?,7
+gsmctl_031,gsmctl_031_v1,fresh_variant_1,A haul spans 540 kilometers. The trucker keeps a speed of 90 kilometers per hour and pauses for 2 breaks of 30 minutes apiece. What is the total trip time in hours?,7
+gsmctl_031,gsmctl_031_v2,fresh_variant_2,"Amaka must cover 540 kilometers by motorbike, riding at 90 kilometers per hour, with 2 rest stops lasting 30 minutes each along the way. How many hours does the whole journey take?",7
+gsmctl_032,gsmctl_032_pub,public_like,Chuki gets a $60 allowance. She spends one third on books and one quarter of the remainder on snacks. How much is left?,30
+gsmctl_032,gsmctl_032_v1,fresh_variant_1,"Timi receives $60 in pocket money. One third goes to comics, then one quarter of what remains goes to sweets. How much money is left?",30
+gsmctl_032,gsmctl_032_v2,fresh_variant_2,"With a $60 stipend, Rita puts one third toward paints and afterward one quarter of the remaining money toward brushes. What does she have left?",30
+gsmctl_033,gsmctl_033_pub,public_like,A wall needs 940 bricks. A mason lays 85 bricks an hour for 8 hours. How many bricks are still needed?,260
+gsmctl_033,gsmctl_033_v1,fresh_variant_1,Paving a path requires 940 stones. A worker sets 85 stones per hour across 8 hours. How many stones remain to be set?,260
+gsmctl_033,gsmctl_033_v2,fresh_variant_2,A mosaic calls for 940 tiles. The artist fixes 85 tiles an hour and works 8 hours. How many tiles are still to be placed?,260
+gsmctl_034,gsmctl_034_pub,public_like,A tailor buys cloth for $80 and sells the finished dress for 75% more than the cloth cost. What is the selling price?,140
+gsmctl_034,gsmctl_034_v1,fresh_variant_1,A carpenter pays $80 for timber and prices the finished stool at 75% above the timber cost. What price does the stool carry?,140
+gsmctl_034,gsmctl_034_v2,fresh_variant_2,A jeweler spends $80 on silver and sells the completed bangle for 75% more than the silver cost her. What is the bangle's selling price?,140
+gsmctl_035,gsmctl_035_pub,public_like,Jars hold 35 olives each. A caterer needs at least 400 olives. How many full jars must she open to have at least 400 olives?,12
+gsmctl_035,gsmctl_035_v1,fresh_variant_1,Each pouch contains 35 beads. A designer needs at least 400 beads for a gown. How many whole pouches must be opened so that she has at least 400 beads?,12
+gsmctl_035,gsmctl_035_v2,fresh_variant_2,Boxes of screws come 35 to a box. A builder requires at least 400 screws. What is the number of full boxes he must open to reach at least 400 screws?,12
+gsmctl_036,gsmctl_036_pub,public_like,Twins Sami and Rami are 11. Their mother is 3 times their age plus 4. How old is the mother?,37
+gsmctl_036,gsmctl_036_v1,fresh_variant_1,The twins Efe and Ese are 11 years old. Their father's age is 3 times the twins' age plus 4 more years. What is the father's age?,37
+gsmctl_036,gsmctl_036_v2,fresh_variant_2,"Kai and Kea, both aged 11, have an aunt whose age equals 3 times their age with 4 added. How old is the aunt?",37
+gsmctl_037,gsmctl_037_pub,public_like,A relay race has 4 runners each running 350 meters. A practice track lap is 200 meters. How many laps of the track equal the race distance?,7
+gsmctl_037,gsmctl_037_v1,fresh_variant_1,"In a relay, 4 swimmers each swim 350 meters. The training pool circuit is 200 meters. How many circuits of the pool match the relay's distance?",7
+gsmctl_037,gsmctl_037_v2,fresh_variant_2,A team event has 4 skaters covering 350 meters apiece. One rink loop measures 200 meters. How many rink loops add up to the event's total distance?,7
+gsmctl_038,gsmctl_038_pub,public_like,"A single notebook sells for $3, or a bundle of 5 notebooks for $12. Kagiso buys 3 bundles and 4 single notebooks. How many dollars does he spend?",48
+gsmctl_038,gsmctl_038_v1,fresh_variant_1,"One candle costs $3, while a pack of 5 candles goes for $12. Dofi purchases 3 packs plus 4 individual candles. What is her total in dollars?",48
+gsmctl_038,gsmctl_038_v2,fresh_variant_2,"Socks are priced at $3 a pair, or $12 for a set of 5 pairs. Juma takes 3 sets and 4 separate pairs. How many dollars does Juma pay?",48
+gsmctl_039,gsmctl_039_pub,public_like,A crate of water holds 15 bottles. A gym uses 6 crates a week. Each bottle costs 2 dollars. What is the gym's weekly water bill?,180
+gsmctl_039,gsmctl_039_v1,fresh_variant_1,"Cartons of juice contain 15 boxes each. A daycare goes through 6 cartons weekly, and every box costs 2 dollars. What does the daycare's weekly juice bill come to?",180
+gsmctl_039,gsmctl_039_v2,fresh_variant_2,A cafe's milk order arrives in trays of 15 bottles. The cafe empties 6 trays a week at 2 dollars per bottle. How much is the cafe's milk bill for a week?,180
+gsmctl_040,gsmctl_040_pub,public_like,Nia has 20 meters of fabric. Each apron uses 3 meters. She sews as many aprons as possible. How many meters of fabric remain?,2
+gsmctl_040,gsmctl_040_v1,fresh_variant_1,Kito has 20 meters of rope. Every swing he builds takes 3 meters of it. He makes as many swings as the rope allows. How many meters of rope are left over?,2
+gsmctl_040,gsmctl_040_v2,fresh_variant_2,"A florist has 20 meters of ribbon, using 3 meters per wreath, and ties as many wreaths as possible. What length of ribbon, in meters, remains?",2
+gsmctl_041,gsmctl_041_pub,public_like,A printer produces 45 pages a minute. A report is 720 pages. How many minutes does printing 4 copies of the report take?,64
+gsmctl_041,gsmctl_041_v1,fresh_variant_1,A copier turns out 45 sheets per minute. One manual runs 720 sheets. How many minutes are needed to copy 4 manuals?,64
+gsmctl_041,gsmctl_041_v2,fresh_variant_2,"A press stamps 45 leaflets every minute. A batch is 720 leaflets, and the shop must produce 4 batches. How long, in minutes, does that take?",64
+gsmctl_042,gsmctl_042_pub,public_like,Rope costs $6 per meter. Jibril buys 13 meters and pays with a $100 bill. What change does he get?,22
+gsmctl_042,gsmctl_042_v1,fresh_variant_1,Wire sells for $6 a meter. Femi takes 13 meters and hands over a $100 note. How much change is Femi owed?,22
+gsmctl_042,gsmctl_042_v2,fresh_variant_2,"Canvas is priced at $6 per meter. Buying 13 meters, Tola pays with a $100 bill. What change does the shopkeeper return?",22
+gsmctl_043,gsmctl_043_pub,public_like,"A beekeeper harvests 38 jars of honey per hive. She keeps 5 jars from each hive and sells the rest at $7 a jar. With 2 hives, how much money does she make?",462
+gsmctl_043,gsmctl_043_v1,fresh_variant_1,"Each of a farmer's fields yields 38 sacks of grain. He holds back 5 sacks per field and sells the remainder at $7 a sack. Across his 2 fields, what does he earn?",462
+gsmctl_043,gsmctl_043_v2,fresh_variant_2,"A cheesemaker gets 38 wheels from each vat, reserves 5 wheels per vat for aging, and sells the rest at $7 per wheel. Working from 2 vats, how much money does she take in?",462
+gsmctl_044,gsmctl_044_pub,public_like,"In an orchard, 6 pickers each fill 9 baskets a day. A basket holds 25 apples. How many apples are picked in a day?",1350
+gsmctl_044,gsmctl_044_v1,fresh_variant_1,"At a vineyard, 6 workers each fill 9 crates daily, and every crate holds 25 grape bunches. How many bunches are gathered in a day?",1350
+gsmctl_044,gsmctl_044_v2,fresh_variant_2,"On a berry farm, 6 harvesters fill 9 pails apiece each day. One pail carries 25 handfuls of berries. How many handfuls get picked per day?",1350
+gsmctl_045,gsmctl_045_pub,public_like,A movie runs 140 minutes. Adisa has watched two fifths of it. How many minutes are left?,84
+gsmctl_045,gsmctl_045_v1,fresh_variant_1,"An audiobook lasts 140 minutes, and Pemba has listened to two fifths of it. How many minutes of listening remain?",84
+gsmctl_045,gsmctl_045_v2,fresh_variant_2,"A documentary is 140 minutes long. Having viewed two fifths of it, how many minutes does Kanya still have to watch?",84
+gsmctl_046,gsmctl_046_pub,public_like,A charity aims to pack 500 kits. Volunteers packed 120 kits on Friday and twice as many on Saturday. How many kits are still to be packed?,140
+gsmctl_046,gsmctl_046_v1,fresh_variant_1,A relief group must fill 500 parcels. Helpers filled 120 parcels on Friday and twice that number on Saturday. How many parcels remain to be filled?,140
+gsmctl_046,gsmctl_046_v2,fresh_variant_2,"The goal of a drive is to assemble 500 hampers. On Friday, 120 hampers were assembled, and on Saturday twice as many were. How many hampers are left to assemble?",140
+gsmctl_047,gsmctl_047_pub,public_like,"A ledger shows deposits of $75, $130, and $45, and a withdrawal of $90. The account began with $200. What is the balance now?",360
+gsmctl_047,gsmctl_047_v1,fresh_variant_1,"Nadia's savings book records deposits of $75, $130, and $45 alongside one withdrawal of $90. She started the account with $200. What balance does she have now?",360
+gsmctl_047,gsmctl_047_v2,fresh_variant_2,"A till opened the day holding $200. Through the day it took in $75, $130, and $45, and paid out $90. How much is in the till now?",360
+gsmctl_048,gsmctl_048_pub,public_like,Tiles are 30 centimeters on each side. A hallway floor is 6 meters long and 3 meters wide. How many tiles cover the floor?,200
+gsmctl_048,gsmctl_048_v1,fresh_variant_1,Square pavers measure 30 centimeters per side. A patio runs 6 meters by 3 meters. How many pavers are needed to cover the patio?,200
+gsmctl_048,gsmctl_048_v2,fresh_variant_2,Carpet squares are 30 centimeters along each edge. An office floor measures 6 meters in length and 3 meters in width. How many squares does covering the floor take?,200
+gsmctl_049,gsmctl_049_pub,public_like,A quiz has 40 questions worth 2 points each. Halima answers 34 correctly and loses 1 point for each wrong answer. What is her score?,62
+gsmctl_049,gsmctl_049_v1,fresh_variant_1,"A test carries 40 items at 2 points apiece. Jomo gets 34 items right, and every wrong item costs 1 point. What score does Jomo end with?",62
+gsmctl_049,gsmctl_049_v2,fresh_variant_2,"In a spelling bee round of 40 words worth 2 points each, Sisi spells 34 words correctly and is docked 1 point per miss. What is Sisi's final score?",62
+gsmctl_050,gsmctl_050_pub,public_like,"A nursery sells seedlings in flats of 16. On Monday it sold 11 flats, and on Tuesday 14 flats. How many seedlings did it sell over the two days?",400
+gsmctl_050,gsmctl_050_v1,fresh_variant_1,A bakery moves bread in trays of 16 loaves. It sold 11 trays Monday and 14 trays Tuesday. How many loaves went out across the two days?,400
+gsmctl_050,gsmctl_050_v2,fresh_variant_2,Eggs at a stand come in cartons of 16. The stand sold 11 cartons on Monday and another 14 cartons on Tuesday. What number of eggs was sold in those two days?,400
+gsmctl_051,gsmctl_051_pub,public_like,Amir runs a stall selling soup at $5 a bowl. Ingredients for the day cost $61. He sells 27 bowls. What is his profit for the day?,74
+gsmctl_051,gsmctl_051_v1,fresh_variant_1,"Chid sells grilled corn at $5 an ear from her cart. The day's supplies cost her $61, and she sells 27 ears. How much profit does the day bring?",74
+gsmctl_051,gsmctl_051_v2,fresh_variant_2,"A juice stand charges $5 per cup. The fruit for the day cost $61, and 27 cups were sold. What profit did the stand make that day?",74
+gsmctl_052,gsmctl_052_pub,public_like,A choir practices 3 evenings a week for 2 hours each evening. How many hours does the choir practice over 12 weeks?,72
+gsmctl_052,gsmctl_052_v1,fresh_variant_1,"A drama troupe rehearses on 3 nights weekly, 2 hours a night. Across 12 weeks, how many hours of rehearsal is that?",72
+gsmctl_052,gsmctl_052_v2,fresh_variant_2,"A rowing crew trains 3 mornings each week, spending 2 hours per session. Over a 12-week season, how many hours does the crew train?",72
+gsmctl_053,gsmctl_053_pub,public_like,One brick weighs 4 pounds. A pallet carries 250 bricks. A truck can haul 3 pallets. How many pounds can the truck haul in bricks?,3000
+gsmctl_053,gsmctl_053_v1,fresh_variant_1,"Each paving stone weighs 4 pounds, and a skid holds 250 stones. A trailer moves 3 skids at once. In pounds, what weight of stones does the trailer move?",3000
+gsmctl_053,gsmctl_053_v2,fresh_variant_2,"A bag of feed weighs 4 pounds. Crates hold 250 bags, and a barge carries 3 crates. How many pounds of feed does the barge carry?",3000
+gsmctl_054,gsmctl_054_pub,public_like,"Rings cost $120. A jeweler raises the price by 25%, then offers a 10% discount on the new price. What is the final price?",135
+gsmctl_054,gsmctl_054_v1,fresh_variant_1,A watch is priced at $120. The seller marks it up 25% and later applies a 10% discount to the marked-up price. What does the watch cost in the end?,135
+gsmctl_054,gsmctl_054_v2,fresh_variant_2,"A vase sells for $120. The gallery lifts the price by 25%, then takes 10% off the raised price during a sale. What is the vase's final price?",135
+gsmctl_055,gsmctl_055_pub,public_like,A school bus makes 2 trips each morning. Each trip carries 47 pupils. How many pupils does the bus carry in 5 mornings?,470
+gsmctl_055,gsmctl_055_v1,fresh_variant_1,"A shuttle van completes 2 runs every morning with 47 passengers per run. Over 5 mornings, how many passengers does it move?",470
+gsmctl_055,gsmctl_055_v2,fresh_variant_2,"Each morning a tram does 2 loops, carrying 47 riders per loop. How many riders does the tram carry across 5 mornings?",470
+gsmctl_056,gsmctl_056_pub,public_like,"Ola types 65 words a minute. An essay is 1300 words. After typing for 12 minutes, how many words remain?",520
+gsmctl_056,gsmctl_056_v1,fresh_variant_1,"Zina transcribes 65 words per minute. The interview transcript totals 1300 words. Once she has transcribed for 12 minutes, how many words are left?",520
+gsmctl_056,gsmctl_056_v2,fresh_variant_2,"A stenographer records 65 words a minute. A speech contains 1300 words. After 12 minutes of recording, how many words remain to be recorded?",520
+gsmctl_057,gsmctl_057_pub,public_like,There are 84 mangoes in a basket. Selam eats one quarter of them and gives 15 to her friends. How many mangoes remain?,48
+gsmctl_057,gsmctl_057_v1,fresh_variant_1,A bowl holds 84 lychees. Duna eats one quarter of the lychees and passes 15 to her cousins. How many lychees are left in the bowl?,48
+gsmctl_057,gsmctl_057_v2,fresh_variant_2,"Ochieng has 84 guavas. After eating one quarter of them and handing 15 to neighbors, how many guavas does he still have?",48
+gsmctl_058,gsmctl_058_pub,public_like,A parking lot charges $2 for the first hour and $1.50 for each additional hour. Bunmi parks for 7 hours. What does she pay?,11
+gsmctl_058,gsmctl_058_v1,fresh_variant_1,Bike storage at the station costs $2 for the first hour and $1.50 per extra hour. Kofi stores his bike for 7 hours. What is his charge?,11
+gsmctl_058,gsmctl_058_v2,fresh_variant_2,A cloakroom bills $2 for the opening hour and $1.50 for every hour after that. Lela leaves her coat for 7 hours. How much does she owe?,11
+gsmctl_059,gsmctl_059_pub,public_like,A vineyard has 18 rows of 55 vines. Disease claims 130 vines. How many healthy vines remain?,860
+gsmctl_059,gsmctl_059_v1,fresh_variant_1,An orchard is planted in 18 lines of 55 trees. A blight kills 130 trees. How many healthy trees are left?,860
+gsmctl_059,gsmctl_059_v2,fresh_variant_2,A tea estate has 18 terraces with 55 bushes on each. Frost destroys 130 bushes. What number of unharmed bushes remains?,860
+gsmctl_060,gsmctl_060_pub,public_like,Kwesi is saving for a $360 drum kit. He already has $110 and saves $25 a week. How many weeks until he can buy the kit?,10
+gsmctl_060,gsmctl_060_v1,fresh_variant_1,Mira wants a $360 telescope. She has $110 put aside and adds $25 every week. After how many weeks can she afford the telescope?,10
+gsmctl_060,gsmctl_060_v2,fresh_variant_2,"A $360 surfboard is Deo's goal. His savings stand at $110, growing by $25 weekly. In how many weeks will he be able to buy the surfboard?",10

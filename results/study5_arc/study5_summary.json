@@ -1,0 +1,73 @@
+{
+  "n_exposed": 100,
+  "n_control": 100,
+  "n_g_exposed": 93,
+  "n_g_control_check": 20,
+  "accuracies": {
+    "base_P_exposed_parents": 0.46,
+    "base_P_control_parents": 0.4,
+    "base_F_exposed_parents": 0.42,
+    "base_F_control_parents": 0.4,
+    "base_G_exposed_parents": 0.3763,
+    "base_G_control_parents": 0.35,
+    "exposed_P_exposed_parents": 1.0,
+    "exposed_P_control_parents": 0.45,
+    "exposed_F_exposed_parents": 0.98,
+    "exposed_F_control_parents": 0.45,
+    "exposed_G_exposed_parents": 0.6022,
+    "exposed_G_control_parents": 0.35
+  },
+  "estimates": {
+    "did_P": {
+      "estimate": 0.49,
+      "ci_low": 0.36,
+      "ci_high": 0.62
+    },
+    "did_F": {
+      "estimate": 0.51,
+      "ci_low": 0.395,
+      "ci_high": 0.625
+    },
+    "did_G": {
+      "estimate": 0.1758,
+      "ci_low": 0.039,
+      "ci_high": 0.3146
+    },
+    "share_F": {
+      "estimate": 1.0408,
+      "ci_low": 0.8684,
+      "ci_high": 1.2759
+    },
+    "share_G": {
+      "estimate": 0.3588,
+      "ci_low": 0.084,
+      "ci_high": 0.6544
+    },
+    "visible_F": {
+      "estimate": -0.02,
+      "ci_low": -0.11,
+      "ci_high": 0.07
+    },
+    "visible_G": {
+      "estimate": 0.3142,
+      "ci_low": 0.1459,
+      "ci_high": 0.4782
+    }
+  },
+  "manipulation_check": {
+    "did_P": 0.49,
+    "floor": 0.05,
+    "passed": true
+  },
+  "g_counterfactual": {
+    "mode": "fresh",
+    "n_control_side": 100
+  },
+  "g_counterfactual_assumption": {
+    "control_G_change_minus_F_change": -0.1,
+    "tolerance": 0.05,
+    "holds": false,
+    "needed": true
+  },
+  "registered_verdict": "manipulation succeeded and the G counterfactual assumption FAILED, so the deep-paraphrase arm is descriptive only and no confirmation of Section 7.11 may be drawn from it. What stands is the F arm and the visible gap, and the F arm holds the options word for word, so a transfer share near 1 there is the mechanical outcome the registration anticipated rather than evidence of deep item knowledge. CEILING: accuracy on the exposed parents reaches or approaches 1.00, so the differences in differences are censored from above and every transfer share built from them is unreliable in size, though not in sign."
+}

@@ -1,0 +1,62 @@
+[
+ {
+  "model": "Qwen2.5-1.5B",
+  "did_public": 0.2425,
+  "dp_ci": [
+   0.0993,
+   0.3866
+  ],
+  "did_fresh": 0.1538,
+  "df_ci": [
+   -0.0003,
+   0.3104
+  ],
+  "visible_gap": 0.0887,
+  "df_p_gt_0": 0.9746
+ },
+ {
+  "model": "SmolLM2-1.7B",
+  "did_public": 0.125,
+  "dp_ci": [
+   -0.0158,
+   0.2666
+  ],
+  "did_fresh": 0.04,
+  "df_ci": [
+   -0.0426,
+   0.1234
+  ],
+  "visible_gap": 0.085,
+  "df_p_gt_0": 0.8235
+ },
+ {
+  "model": "OLMo-2-1B",
+  "did_public": 0.46,
+  "dp_ci": [
+   0.3156,
+   0.6071
+  ],
+  "did_fresh": 0.3612,
+  "df_ci": [
+   0.2298,
+   0.4944
+  ],
+  "visible_gap": 0.0988,
+  "df_p_gt_0": 0.9994
+ },
+ {
+  "model": "StableLM-2-1.6B",
+  "did_public": 0.18,
+  "dp_ci": [
+   0.0381,
+   0.3242
+  ],
+  "did_fresh": 0.2125,
+  "df_ci": [
+   0.0739,
+   0.3502
+  ],
+  "visible_gap": -0.0325,
+  "df_p_gt_0": 0.9941
+ }
+]

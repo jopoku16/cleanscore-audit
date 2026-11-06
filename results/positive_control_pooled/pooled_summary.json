@@ -1,0 +1,28 @@
+{
+  "studies_pooled": [
+    "Qwen2.5-1.5B",
+    "SmolLM2-1.7B",
+    "OLMo-2-1B",
+    "StableLM-2-1.6B"
+  ],
+  "studies_excluded": [],
+  "pooled_did_public": 0.2597,
+  "pooled_did_public_ci": [
+    0.1825,
+    0.335
+  ],
+  "pooled_did_fresh": 0.1988,
+  "pooled_did_fresh_ci": [
+    0.14,
+    0.2575
+  ],
+  "pooled_did_fresh_p_gt_0": 1.0,
+  "pooled_visible_gap": 0.0609,
+  "transfer_ci": [
+    0.5248,
+    1.1049
+  ],
+  "share_transfer_above_25pct": 1.0,
+  "models_with_positive_did_fresh": 4,
+  "models_total": 4
+}

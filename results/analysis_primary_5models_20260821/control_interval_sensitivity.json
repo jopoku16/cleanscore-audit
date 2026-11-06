@@ -1,0 +1,36 @@
+{
+  "mean_tau_width": {
+    "wald": 0.3347,
+    "hoeffding": 0.9815,
+    "fixed": 0.1313
+  },
+  "control_half_range": {
+    "wald": [
+      0.0565,
+      0.1358
+    ],
+    "hoeffding": [
+      0.3822,
+      0.4681
+    ],
+    "fixed": [
+      0.0,
+      0.0
+    ]
+  },
+  "pairs_excluding_zero": {
+    "wald": 0,
+    "hoeffding": 0,
+    "fixed": 1
+  },
+  "conclusion_flips": [
+    {
+      "model": "HuggingFaceTB/SmolLM2-1.7B-Instruct",
+      "domain": "arc",
+      "wald": false,
+      "hoeffding": false,
+      "fixed": true
+    }
+  ],
+  "any_conclusion_changes": true
+}

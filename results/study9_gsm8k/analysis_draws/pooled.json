@@ -1,0 +1,91 @@
+{
+  "pooled_did_public": 0.2519,
+  "pooled_did_fresh": 0.1919,
+  "invisible_share_point": 0.7618,
+  "n_runs": 16,
+  "selftest": false,
+  "two_level_primary": {
+    "did_public_95": [
+      0.1801,
+      0.2518,
+      0.325
+    ],
+    "did_fresh_95": [
+      0.1245,
+      0.1925,
+      0.2603
+    ],
+    "share_95": [
+      0.4956,
+      0.7624,
+      1.1293
+    ],
+    "share_above_half": 0.9731,
+    "share_above_quarter": 0.9985,
+    "fresh_effect_positive_share": 0.9995,
+    "draws_with_public_effect_at_most_0.05": 1
+  },
+  "two_level_seed_noise_correlated": {
+    "did_public_95": [
+      0.1804,
+      0.2516,
+      0.3263
+    ],
+    "did_fresh_95": [
+      0.1251,
+      0.1918,
+      0.2592
+    ],
+    "share_95": [
+      0.5374,
+      0.7612,
+      1.0468
+    ],
+    "share_above_half": 0.988,
+    "share_above_quarter": 0.9992,
+    "fresh_effect_positive_share": 0.9998,
+    "draws_with_public_effect_at_most_0.05": 1
+  },
+  "shared_parents_registered_runs_only": {
+    "did_public_95": [
+      0.1875,
+      0.26,
+      0.3325
+    ],
+    "did_fresh_95": [
+      0.14,
+      0.1988,
+      0.2562
+    ],
+    "share_95": [
+      0.54,
+      0.7632,
+      1.0795
+    ],
+    "share_above_half": 0.9897,
+    "share_above_quarter": 1.0,
+    "fresh_effect_positive_share": 1.0,
+    "draws_with_public_effect_at_most_0.05": 0
+  },
+  "study3_estimator_registered_runs_only": {
+    "did_public_95": [
+      0.185,
+      0.26,
+      0.3375
+    ],
+    "did_fresh_95": [
+      0.1388,
+      0.1988,
+      0.2575
+    ],
+    "share_95": [
+      0.5243,
+      0.7641,
+      1.1047
+    ],
+    "share_above_half": 0.9849,
+    "share_above_quarter": 1.0,
+    "fresh_effect_positive_share": 1.0,
+    "draws_with_public_effect_at_most_0.05": 0
+  }
+}

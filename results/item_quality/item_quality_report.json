@@ -1,0 +1,30 @@
+{
+  "gsm8k_fresh_harder": {
+    "observed_parents_with_2plus_models": 4,
+    "null_mean": 3.369,
+    "null_sd": 1.549,
+    "p_one_sided": 0.4461,
+    "permutations": 20000
+  },
+  "gsm8k_fresh_easier": {
+    "observed_parents_with_2plus_models": 2,
+    "null_mean": 3.289,
+    "null_sd": 1.548,
+    "p_one_sided": 0.8816,
+    "permutations": 20000
+  },
+  "arc_fresh_harder": {
+    "observed_parents_with_2plus_models": 3,
+    "null_mean": 0.703,
+    "null_sd": 0.771,
+    "p_one_sided": 0.0215,
+    "permutations": 20000
+  },
+  "arc_fresh_easier": {
+    "observed_parents_with_2plus_models": 0,
+    "null_mean": 0.298,
+    "null_sd": 0.521,
+    "p_one_sided": 1.0,
+    "permutations": 20000
+  }
+}

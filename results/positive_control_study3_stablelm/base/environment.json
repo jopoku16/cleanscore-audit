@@ -1,0 +1,12 @@
+{
+  "model": "stabilityai/stablelm-2-1_6b-chat",
+  "revision": "f3fe67057c2789ae1bb1fe42b038da99840d4f13",
+  "n_parameters": 1644515328,
+  "torch": "2.10.0+cu128",
+  "python": "3.12.13",
+  "cuda_device": "Tesla T4",
+  "gen_batch": 8,
+  "max_new_tokens": 320,
+  "decoding": "greedy",
+  "amended_parser": false
+}

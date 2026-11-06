@@ -1,0 +1,11 @@
+domain,model,n_parents,observed_mean_gap,p_two_sided,rejects_at_05
+gsm8k,allenai/OLMo-2-1124-7B-Instruct,200,0.015,0.6739,False
+gsm8k,HuggingFaceTB/SmolLM2-1.7B-Instruct,200,0.045,0.1994,False
+gsm8k,microsoft/Phi-3-mini-4k-instruct,200,0.0175,0.4723,False
+gsm8k,Qwen/Qwen2.5-1.5B-Instruct,200,-0.025,0.4798,False
+gsm8k,Qwen/Qwen2.5-7B-Instruct,200,-0.005,0.8901,False
+arc,allenai/OLMo-2-1124-7B-Instruct,200,0.0175,0.5087,False
+arc,HuggingFaceTB/SmolLM2-1.7B-Instruct,200,0.015,0.53,False
+arc,microsoft/Phi-3-mini-4k-instruct,200,-0.0025,1.0,False
+arc,Qwen/Qwen2.5-1.5B-Instruct,200,-0.0075,0.8462,False
+arc,Qwen/Qwen2.5-7B-Instruct,200,0.0325,0.1645,False

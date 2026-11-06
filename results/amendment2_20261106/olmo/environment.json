@@ -1,0 +1,21 @@
+{
+  "model": "allenai/OLMo-2-1124-7B-Instruct",
+  "revision": "470b1fba1ae01581f270116362ee4aa1b97f4c84",
+  "n_parameters": 7298617344,
+  "torch": "2.11.0+cu130",
+  "python": "3.13.16",
+  "cuda_device": "Tesla T4",
+  "amendment": 2,
+  "tasks": [
+    "gsm8k",
+    "arc"
+  ],
+  "gsm8k_max_new_tokens": 768,
+  "gsm8k_amended_parser": true,
+  "arc_mode": "greedy generation of the answer letter",
+  "arc_max_new_tokens": 32,
+  "arc_prompt_digest": "4d664da1c396856b",
+  "gen_batch": 2,
+  "arc_batch": 4,
+  "decoding": "greedy"
+}

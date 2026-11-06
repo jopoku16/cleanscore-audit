@@ -1,0 +1,5 @@
+model,domain,max_abs_parent_placebo,mean_placebo
+Qwen/Qwen2.5-1.5B-Instruct,gsm8k,0.0,0.0
+Qwen/Qwen2.5-1.5B-Instruct,arc,0.0,0.0
+Qwen/Qwen2.5-7B-Instruct,gsm8k,0.0,0.0
+Qwen/Qwen2.5-7B-Instruct,arc,0.0,0.0

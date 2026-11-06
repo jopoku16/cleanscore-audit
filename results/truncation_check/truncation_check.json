@@ -1,0 +1,61 @@
+{
+  "status": "post hoc, run 2026-11-06, not registered",
+  "cap_tokens": 320,
+  "models": {
+    "OLMo-2-1124-7B-Instruct": {
+      "n_parents": 200,
+      "trunc_rate_all_forms": 0.2533,
+      "trunc_rate_public_form": 0.245,
+      "trunc_rate_fresh_forms": 0.2575,
+      "n_parents_no_truncated_form": 120,
+      "delta_hat_all_parents": 0.015,
+      "delta_hat_complete_parents": -0.0083,
+      "worst_case_lower": -0.245,
+      "worst_case_upper": 0.2575
+    },
+    "SmolLM2-1.7B-Instruct": {
+      "n_parents": 200,
+      "trunc_rate_all_forms": 0.145,
+      "trunc_rate_public_form": 0.13,
+      "trunc_rate_fresh_forms": 0.1525,
+      "n_parents_no_truncated_form": 139,
+      "delta_hat_all_parents": 0.045,
+      "delta_hat_complete_parents": 0.0432,
+      "worst_case_lower": -0.105,
+      "worst_case_upper": 0.1775
+    },
+    "Phi-3-mini-4k-instruct": {
+      "n_parents": 200,
+      "trunc_rate_all_forms": 0.1133,
+      "trunc_rate_public_form": 0.105,
+      "trunc_rate_fresh_forms": 0.1175,
+      "n_parents_no_truncated_form": 161,
+      "delta_hat_all_parents": 0.0175,
+      "delta_hat_complete_parents": 0.0155,
+      "worst_case_lower": -0.0975,
+      "worst_case_upper": 0.125
+    },
+    "Qwen2.5-1.5B-Instruct": {
+      "n_parents": 200,
+      "trunc_rate_all_forms": 0.4067,
+      "trunc_rate_public_form": 0.4,
+      "trunc_rate_fresh_forms": 0.41,
+      "n_parents_no_truncated_form": 77,
+      "delta_hat_all_parents": -0.025,
+      "delta_hat_complete_parents": -0.0195,
+      "worst_case_lower": -0.4075,
+      "worst_case_upper": 0.4025
+    },
+    "Qwen2.5-7B-Instruct": {
+      "n_parents": 200,
+      "trunc_rate_all_forms": 0.2983,
+      "trunc_rate_public_form": 0.31,
+      "trunc_rate_fresh_forms": 0.2925,
+      "n_parents_no_truncated_form": 108,
+      "delta_hat_all_parents": -0.005,
+      "delta_hat_complete_parents": -0.0093,
+      "worst_case_lower": -0.3225,
+      "worst_case_upper": 0.28
+    }
+  }
+}

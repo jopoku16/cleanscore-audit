@@ -1,0 +1,11 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+  "n_parameters": 7615616512,
+  "torch": "2.10.0+cu128",
+  "python": "3.12.13",
+  "cuda_device": "Tesla T4",
+  "gen_batch": 4,
+  "max_new_tokens": 320,
+  "decoding": "greedy"
+}

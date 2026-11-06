@@ -1,0 +1,73 @@
+{
+  "n_exposed": 100,
+  "n_control": 100,
+  "n_g_exposed": 93,
+  "n_g_control_check": 83,
+  "accuracies": {
+    "base_P_exposed_parents": 0.46,
+    "base_P_control_parents": 0.4,
+    "base_F_exposed_parents": 0.42,
+    "base_F_control_parents": 0.4,
+    "base_G_exposed_parents": 0.3763,
+    "base_G_control_parents": 0.4096,
+    "exposed_P_exposed_parents": 0.46,
+    "exposed_P_control_parents": 0.41,
+    "exposed_F_exposed_parents": 0.435,
+    "exposed_F_control_parents": 0.395,
+    "exposed_G_exposed_parents": 0.3441,
+    "exposed_G_control_parents": 0.3855
+  },
+  "estimates": {
+    "did_P": {
+      "estimate": -0.01,
+      "ci_low": -0.12,
+      "ci_high": 0.1
+    },
+    "did_F": {
+      "estimate": 0.02,
+      "ci_low": -0.06,
+      "ci_high": 0.1
+    },
+    "did_G": {
+      "estimate": -0.0082,
+      "ci_low": -0.1472,
+      "ci_high": 0.1283
+    },
+    "share_F": {
+      "estimate": NaN,
+      "ci_low": NaN,
+      "ci_high": NaN
+    },
+    "share_G": {
+      "estimate": NaN,
+      "ci_low": NaN,
+      "ci_high": NaN
+    },
+    "visible_F": {
+      "estimate": -0.03,
+      "ci_low": -0.12,
+      "ci_high": 0.065
+    },
+    "visible_G": {
+      "estimate": -0.0018,
+      "ci_low": -0.1774,
+      "ci_high": 0.1766
+    }
+  },
+  "manipulation_check": {
+    "did_P": -0.01,
+    "floor": 0.05,
+    "passed": false
+  },
+  "g_counterfactual": {
+    "mode": "deep",
+    "n_control_side": 83
+  },
+  "g_counterfactual_assumption": {
+    "control_G_change_minus_F_change": NaN,
+    "tolerance": 0.05,
+    "holds": true,
+    "needed": false
+  },
+  "registered_verdict": "negative control passed: with no leak present the largest difference in differences across the three form families is 0.0200, inside the registered 0.05, so the procedure does not manufacture an effect from nothing and the positive-control estimates are not inflated by fine-tuning alone."
+}

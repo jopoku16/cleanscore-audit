@@ -1,0 +1,33 @@
+{
+  "studies": [
+    {
+      "study": "Qwen2.5-1.5B",
+      "did_public": 0.24,
+      "did_fresh": 0.175,
+      "visible_gap": 0.065
+    },
+    {
+      "study": "SmolLM2-1.7B",
+      "did_public": 0.1,
+      "did_fresh": 0.04,
+      "visible_gap": 0.06
+    }
+  ],
+  "pooled_did_public": 0.1698,
+  "pooled_did_public_ci": [
+    0.06,
+    0.28
+  ],
+  "pooled_did_public_p_gt_0": 0.9987,
+  "pooled_did_fresh": 0.1073,
+  "pooled_did_fresh_ci": [
+    0.0225,
+    0.1925
+  ],
+  "pooled_did_fresh_p_gt_0": 0.9927,
+  "pooled_transfer_ci": [
+    0.1486,
+    1.5217
+  ],
+  "share_above_25pct": 0.9403
+}

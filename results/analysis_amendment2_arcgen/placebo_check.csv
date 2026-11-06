@@ -1,0 +1,11 @@
+model,domain,max_abs_parent_placebo,mean_placebo
+allenai/OLMo-2-1124-7B-Instruct,gsm8k,0.0,0.0
+allenai/OLMo-2-1124-7B-Instruct,arc,0.0,0.0
+HuggingFaceTB/SmolLM2-1.7B-Instruct,gsm8k,0.0,0.0
+HuggingFaceTB/SmolLM2-1.7B-Instruct,arc,0.0,0.0
+microsoft/Phi-3-mini-4k-instruct,gsm8k,0.0,0.0
+microsoft/Phi-3-mini-4k-instruct,arc,0.0,0.0
+Qwen/Qwen2.5-1.5B-Instruct,gsm8k,0.0,0.0
+Qwen/Qwen2.5-1.5B-Instruct,arc,0.0,0.0
+Qwen/Qwen2.5-7B-Instruct,gsm8k,0.0,0.0
+Qwen/Qwen2.5-7B-Instruct,arc,0.0,0.0

@@ -1,0 +1,34 @@
+{
+ "studies_pooled": [
+  "Qwen2.5-1.5B",
+  "SmolLM2-1.7B",
+  "OLMo-2-1B",
+  "StableLM-2-1.6B"
+ ],
+ "pooled_did_public": 0.2519,
+ "pooled_did_public_ci": [
+  0.1801,
+  0.325
+ ],
+ "pooled_did_fresh": 0.1919,
+ "pooled_did_fresh_ci": [
+  0.1245,
+  0.2603
+ ],
+ "pooled_visible_gap": 0.06,
+ "transfer_ci": [
+  0.4956,
+  1.1293
+ ],
+ "share_transfer_above_half": 0.9731,
+ "share_transfer_above_25pct": 0.9985,
+ "fresh_effect_positive_share": 0.9995,
+ "n_runs": 16,
+ "models_with_positive_did_fresh": 4,
+ "models_total": 4,
+ "wrong_way_case": {
+  "model": "StableLM-2-1.6B",
+  "did_public": 0.18,
+  "visible_gap": -0.0325
+ }
+}

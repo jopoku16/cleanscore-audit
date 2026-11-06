@@ -1,0 +1,7 @@
+domain,n_audited,n_control,planted_delta,primary_rate,claim_rule_rate
+arc,200,40,0.0,0.0872,0.001
+arc,200,40,0.05,0.839,0.0288
+arc,200,40,0.1,1.0,0.1618
+arc,200,40,0.15,1.0,0.4227
+arc,200,40,0.2,1.0,0.7127
+arc,200,40,0.3,1.0,0.9775

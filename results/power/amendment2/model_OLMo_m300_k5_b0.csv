@@ -1,0 +1,7 @@
+domain,n_audited,n_control,planted_delta,primary_rate,claim_rule_rate
+gsm8k,800,300,0.0,0.3402,0.0003
+gsm8k,800,300,0.05,0.9992,0.1158
+gsm8k,800,300,0.1,1.0,0.9223
+gsm8k,800,300,0.15,1.0,1.0
+gsm8k,800,300,0.2,1.0,1.0
+gsm8k,800,300,0.3,1.0,1.0

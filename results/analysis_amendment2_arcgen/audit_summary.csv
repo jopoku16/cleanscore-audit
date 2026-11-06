@@ -1,0 +1,11 @@
+model,domain,n_parents,n_nonzero_gap,original_acc,fresh_acc,delta_hat,wald_half,hoeffding_half,emp_bernstein_half,randomization_p,randomization_rejects,primary_interval,primary_excludes_zero,control_pub_acc,control_fresh_acc,b_c_hat,b_c_half,tau_excludes_zero_at_rho_star,registered_claim
+allenai/OLMo-2-1124-7B-Instruct,gsm8k,200,58,0.72,0.705,0.015,0.0452,0.1921,0.1769,0.67392,False,wald,False,0.9167,0.9,0.0167,0.0806,False,False
+allenai/OLMo-2-1124-7B-Instruct,arc,200,31,0.775,0.765,0.01,0.0322,0.1921,0.1562,0.69872,False,wald,False,0.975,0.8875,0.0875,0.0776,False,False
+HuggingFaceTB/SmolLM2-1.7B-Instruct,gsm8k,200,83,0.475,0.43,0.045,0.0577,0.1921,0.1973,0.19809,False,wald,False,0.7167,0.7167,0.0,0.1188,False,False
+HuggingFaceTB/SmolLM2-1.7B-Instruct,arc,200,28,0.605,0.6125,-0.0075,0.0313,0.1921,0.1547,0.83891,False,hoeffding,False,0.85,0.7625,0.0875,0.0692,False,False
+microsoft/Phi-3-mini-4k-instruct,gsm8k,200,35,0.82,0.8025,0.0175,0.0347,0.1921,0.1596,0.47318,False,wald,False,0.9833,0.975,0.0083,0.0494,False,False
+microsoft/Phi-3-mini-4k-instruct,arc,200,20,0.88,0.8775,0.0025,0.0241,0.1921,0.1427,1.0,False,hoeffding,False,1.0,0.9625,0.0375,0.0542,False,False
+Qwen/Qwen2.5-1.5B-Instruct,gsm8k,200,80,0.475,0.5,-0.025,0.0546,0.1921,0.1923,0.47103,False,wald,False,0.8833,0.85,0.0333,0.0928,False,False
+Qwen/Qwen2.5-1.5B-Instruct,arc,200,28,0.785,0.7775,0.0075,0.0293,0.1921,0.1514,0.83671,False,hoeffding,False,0.85,0.85,0.0,0.0608,False,False
+Qwen/Qwen2.5-7B-Instruct,gsm8k,200,59,0.71,0.715,-0.005,0.0474,0.1921,0.1806,0.89106,False,wald,False,0.9333,0.95,-0.0167,0.0519,False,False
+Qwen/Qwen2.5-7B-Instruct,arc,200,16,0.9,0.91,-0.01,0.0236,0.1921,0.142,0.59412,False,hoeffding,False,1.0,0.9625,0.0375,0.0413,False,False

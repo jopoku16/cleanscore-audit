@@ -1,0 +1,28 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "n_exposed": 100,
+  "n_unexposed": 100,
+  "public_exposed": 0.15,
+  "public_unexposed": -0.09,
+  "fresh_exposed": 0.085,
+  "fresh_unexposed": -0.09,
+  "did_public": 0.24,
+  "did_public_ci": [
+    0.08,
+    0.4
+  ],
+  "did_fresh": 0.175,
+  "did_fresh_ci": [
+    0.035,
+    0.315
+  ],
+  "did_fresh_p_gt_0": 0.9933,
+  "visible_gap_effect": 0.065,
+  "transfer_fraction": 0.7292,
+  "transfer_ci": [
+    0.1935,
+    1.6786
+  ],
+  "share_above_25pct": 0.9602,
+  "share_above_50pct": 0.7931
+}

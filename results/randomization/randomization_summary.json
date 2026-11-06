@@ -1,0 +1,7 @@
+{
+  "alpha": 0.05,
+  "type_I_min": 0.0285,
+  "type_I_max": 0.0515,
+  "audit_rejections": 0,
+  "audit_pairs": 10
+}

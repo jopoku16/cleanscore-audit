@@ -1,0 +1,11 @@
+model,domain,n_parents,n_above_threshold,delta_hat_all,delta_hat_deep_rewrites_only,shift,pearson_r_similarity_gap,p_value
+allenai/OLMo-2-1124-7B-Instruct,gsm8k,200,21,0.015,0.0279,0.0129,0.0286,0.6877
+allenai/OLMo-2-1124-7B-Instruct,arc,200,0,0.0175,0.0175,0.0,0.0125,0.8602
+HuggingFaceTB/SmolLM2-1.7B-Instruct,gsm8k,200,21,0.045,0.0503,0.0053,-0.0035,0.9605
+HuggingFaceTB/SmolLM2-1.7B-Instruct,arc,200,0,0.015,0.015,0.0,-0.0474,0.5047
+microsoft/Phi-3-mini-4k-instruct,gsm8k,200,21,0.0175,0.0168,-0.0007,0.023,0.7467
+microsoft/Phi-3-mini-4k-instruct,arc,200,0,-0.0025,-0.0025,0.0,-0.0376,0.597
+Qwen/Qwen2.5-1.5B-Instruct,gsm8k,200,21,-0.025,-0.0196,0.0054,-0.0349,0.6235
+Qwen/Qwen2.5-1.5B-Instruct,arc,200,0,-0.0075,-0.0075,0.0,-0.1211,0.0875
+Qwen/Qwen2.5-7B-Instruct,gsm8k,200,21,-0.005,0.0028,0.0078,-0.0721,0.3103
+Qwen/Qwen2.5-7B-Instruct,arc,200,0,0.0325,0.0325,0.0,-0.0281,0.6923

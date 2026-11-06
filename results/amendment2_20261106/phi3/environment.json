@@ -1,0 +1,21 @@
+{
+  "model": "microsoft/Phi-3-mini-4k-instruct",
+  "revision": "f39ac1d28e925b323eae81227eaba4464caced4e",
+  "n_parameters": 3821079552,
+  "torch": "2.11.0+cu130",
+  "python": "3.13.16",
+  "cuda_device": "Tesla T4",
+  "amendment": 2,
+  "tasks": [
+    "gsm8k",
+    "arc"
+  ],
+  "gsm8k_max_new_tokens": 768,
+  "gsm8k_amended_parser": true,
+  "arc_mode": "greedy generation of the answer letter",
+  "arc_max_new_tokens": 32,
+  "arc_prompt_digest": "4d664da1c396856b",
+  "gen_batch": 4,
+  "arc_batch": 8,
+  "decoding": "greedy"
+}

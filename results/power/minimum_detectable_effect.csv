@@ -1,0 +1,11 @@
+domain,model,n_audited,sd_of_gaps,share_nonzero,minimum_detectable_effect,guardrail_applied
+gsm8k,allenai/OLMo-2-1124-7B-Instruct,200,0.3541,0.29,0.0452,False
+gsm8k,HuggingFaceTB/SmolLM2-1.7B-Instruct,200,0.4517,0.415,0.0577,False
+gsm8k,microsoft/Phi-3-mini-4k-instruct,200,0.2717,0.175,0.0347,False
+gsm8k,Qwen/Qwen2.5-1.5B-Instruct,200,0.4275,0.4,0.0546,False
+gsm8k,Qwen/Qwen2.5-7B-Instruct,200,0.3717,0.295,0.0474,False
+arc,allenai/OLMo-2-1124-7B-Instruct,200,0.3145,0.2,0.0397,False
+arc,HuggingFaceTB/SmolLM2-1.7B-Instruct,200,0.218,0.13,0.1921,True
+arc,microsoft/Phi-3-mini-4k-instruct,200,0.2213,0.135,0.1921,True
+arc,Qwen/Qwen2.5-1.5B-Instruct,200,0.2268,0.16,0.0286,False
+arc,Qwen/Qwen2.5-7B-Instruct,200,0.2839,0.19,0.0358,False

@@ -1,0 +1,13 @@
+{
+  "n_exposed": 100,
+  "public_change": 0.15,
+  "public_p": 0.0105,
+  "fresh_change": 0.085,
+  "fresh_p": 0.107,
+  "transfer_point": 0.5667,
+  "transfer_ci_low": -0.1429,
+  "transfer_ci_high": 1.5,
+  "share_resamples_above_zero": 0.9479,
+  "share_resamples_above_quarter": 0.8409,
+  "bootstrap_resamples_usable": 19727
+}

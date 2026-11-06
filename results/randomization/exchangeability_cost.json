@@ -1,0 +1,31 @@
+{
+  "alpha": 0.05,
+  "audits_per_setting": 4000,
+  "note": "no contamination is present in any setting; every rejection is caused by form mismatch alone",
+  "settings": [
+    {
+      "n": 200,
+      "form_gap": 0.0,
+      "base_accuracy": 0.55,
+      "rejection_rate": 0.0387
+    },
+    {
+      "n": 200,
+      "form_gap": 0.02,
+      "base_accuracy": 0.55,
+      "rejection_rate": 0.107
+    },
+    {
+      "n": 200,
+      "form_gap": 0.05,
+      "base_accuracy": 0.55,
+      "rejection_rate": 0.3145
+    },
+    {
+      "n": 200,
+      "form_gap": 0.0875,
+      "base_accuracy": 0.55,
+      "rejection_rate": 0.6893
+    }
+  ]
+}

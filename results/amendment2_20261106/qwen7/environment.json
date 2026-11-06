@@ -1,0 +1,20 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+  "n_parameters": 7615616512,
+  "torch": "2.11.0+cu130",
+  "python": "3.13.16",
+  "cuda_device": "Tesla T4",
+  "amendment": 2,
+  "tasks": [
+    "arc"
+  ],
+  "gsm8k_max_new_tokens": 768,
+  "gsm8k_amended_parser": true,
+  "arc_mode": "greedy generation of the answer letter",
+  "arc_max_new_tokens": 32,
+  "arc_prompt_digest": "4d664da1c396856b",
+  "gen_batch": 2,
+  "arc_batch": 4,
+  "decoding": "greedy"
+}

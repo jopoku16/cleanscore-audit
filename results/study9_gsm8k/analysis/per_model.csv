@@ -1,0 +1,5 @@
+model,did_public,did_fresh,spread_public,spread_fresh
+OLMo-2-1B,0.46,0.3612,0.08,0.115
+Qwen2.5-1.5B,0.2425,0.1538,0.08,0.16
+SmolLM2-1.7B,0.125,0.04,0.08,0.01
+StableLM-2-1.6B,0.18,0.2125,0.09,0.15

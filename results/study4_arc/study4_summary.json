@@ -1,0 +1,73 @@
+{
+  "n_exposed": 100,
+  "n_control": 100,
+  "n_g_exposed": 93,
+  "n_g_control_check": 20,
+  "accuracies": {
+    "base_P_exposed_parents": 0.46,
+    "base_P_control_parents": 0.4,
+    "base_F_exposed_parents": 0.42,
+    "base_F_control_parents": 0.4,
+    "base_G_exposed_parents": 0.3871,
+    "base_G_control_parents": 0.35,
+    "exposed_P_exposed_parents": 0.28,
+    "exposed_P_control_parents": 0.44,
+    "exposed_F_exposed_parents": 0.375,
+    "exposed_F_control_parents": 0.445,
+    "exposed_G_exposed_parents": 0.3011,
+    "exposed_G_control_parents": 0.35
+  },
+  "estimates": {
+    "did_P": {
+      "estimate": -0.22,
+      "ci_low": -0.35,
+      "ci_high": -0.09
+    },
+    "did_F": {
+      "estimate": -0.09,
+      "ci_low": -0.205,
+      "ci_high": 0.025
+    },
+    "did_G": {
+      "estimate": -0.131,
+      "ci_low": -0.2305,
+      "ci_high": -0.0323
+    },
+    "share_F": {
+      "estimate": NaN,
+      "ci_low": NaN,
+      "ci_high": NaN
+    },
+    "share_G": {
+      "estimate": NaN,
+      "ci_low": NaN,
+      "ci_high": NaN
+    },
+    "visible_F": {
+      "estimate": -0.13,
+      "ci_low": -0.23,
+      "ci_high": -0.03
+    },
+    "visible_G": {
+      "estimate": -0.089,
+      "ci_low": -0.2477,
+      "ci_high": 0.0683
+    }
+  },
+  "manipulation_check": {
+    "did_P": -0.22,
+    "floor": 0.05,
+    "passed": false
+  },
+  "g_counterfactual": {
+    "mode": "fresh",
+    "n_control_side": 100
+  },
+  "g_counterfactual_assumption": {
+    "control_G_change_minus_F_change": -0.075,
+    "tolerance": 0.05,
+    "holds": false,
+    "needed": true
+  },
+  "registered_verdict": "failed manipulation: the leak did not raise accuracy on the leaked wording by the registered 0.05, so this study contributes nothing to any claim about transfer, in either direction. It is not evidence that contamination fails to transfer on ARC."
+}

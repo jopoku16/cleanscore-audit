@@ -1,0 +1,11 @@
+model,domain,raw_public_score,cleaneval_fresh_score,unadjusted_gap,pacost_conf_orig,pacost_conf_fresh,pacost_t,pacost_p_t,pacost_p_wilcoxon,pacost_flags_contamination
+allenai/OLMo-2-1124-7B-Instruct,gsm8k,0.72,0.705,0.015,-0.0975,-0.096,-1.094,0.2754,0.7633,False
+allenai/OLMo-2-1124-7B-Instruct,arc,0.625,0.6075,0.0175,-3.1893,-3.1719,-0.367,0.7138,0.3462,False
+HuggingFaceTB/SmolLM2-1.7B-Instruct,gsm8k,0.475,0.43,0.045,-0.1555,-0.156,0.212,0.8326,0.4921,False
+HuggingFaceTB/SmolLM2-1.7B-Instruct,arc,0.485,0.47,0.015,-3.7413,-3.6674,-1.348,0.1791,0.3803,False
+microsoft/Phi-3-mini-4k-instruct,gsm8k,0.82,0.8025,0.0175,-0.1189,-0.119,0.072,0.9424,0.9048,False
+microsoft/Phi-3-mini-4k-instruct,arc,0.595,0.5975,-0.0025,-3.1536,-3.2046,2.412,0.0168,0.0097,True
+Qwen/Qwen2.5-1.5B-Instruct,gsm8k,0.475,0.5,-0.025,-0.1222,-0.1222,-0.014,0.9885,0.5107,False
+Qwen/Qwen2.5-1.5B-Instruct,arc,0.495,0.5025,-0.0075,-2.816,-2.8391,0.416,0.6778,0.4898,False
+Qwen/Qwen2.5-7B-Instruct,gsm8k,0.71,0.715,-0.005,-0.0749,-0.0759,0.799,0.425,0.4341,False
+Qwen/Qwen2.5-7B-Instruct,arc,0.59,0.5575,0.0325,-6.0854,-6.1468,0.697,0.4865,0.1108,False

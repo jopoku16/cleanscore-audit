@@ -1,0 +1,11 @@
+{
+  "model": "microsoft/Phi-3-mini-4k-instruct",
+  "revision": "f39ac1d28e925b323eae81227eaba4464caced4e",
+  "n_parameters": 3821079552,
+  "torch": "2.10.0+cu128",
+  "python": "3.12.13",
+  "cuda_device": "Tesla T4",
+  "gen_batch": 8,
+  "max_new_tokens": 320,
+  "decoding": "greedy"
+}

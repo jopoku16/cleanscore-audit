@@ -1,0 +1,21 @@
+{
+  "model": "HuggingFaceTB/SmolLM2-1.7B-Instruct",
+  "revision": "31b70e2e869a7173562077fd711b654946d38674",
+  "n_parameters": 1711376384,
+  "torch": "2.11.0+cu130",
+  "python": "3.13.16",
+  "cuda_device": "Tesla T4",
+  "amendment": 2,
+  "tasks": [
+    "gsm8k",
+    "arc"
+  ],
+  "gsm8k_max_new_tokens": 768,
+  "gsm8k_amended_parser": true,
+  "arc_mode": "greedy generation of the answer letter",
+  "arc_max_new_tokens": 32,
+  "arc_prompt_digest": "4d664da1c396856b",
+  "gen_batch": 4,
+  "arc_batch": 8,
+  "decoding": "greedy"
+}

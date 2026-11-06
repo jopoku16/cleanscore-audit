@@ -1,0 +1,3 @@
+model,public_acc,fresh_acc,delta_hat,primary_interval,primary_half,n_nonzero,interval_excludes_zero,delta_exposed_half,delta_unexposed_half,b_c,tau_lower_at_rho_star,tau_upper_at_rho_star,tau_excludes_zero,randomization_p_one_sided,randomization_rejects,registered_claim_fires
+exposed,0.475,0.4875,-0.0125,wald,0.0552,80,False,-0.005,-0.02,0.025,-0.2218,0.1468,False,0.69802,False,False
+base,0.475,0.5,-0.025,wald,0.0546,80,False,-0.025,-0.025,0.0333,-0.2469,0.1302,False,0.82056,False,False

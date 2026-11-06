@@ -1,0 +1,601 @@
+parent_id,form_id,form_type,answerKey,pred_norm,correct,valid,continuation
+arcc_test_0001,arcc_test_0001_orig,original_public,B,B,1,1,B. buildings will be made safer
+arcc_test_0001,arcc_test_0001_v1,fresh_variant_1,B,B,1,1,B. buildings will be made safer
+arcc_test_0001,arcc_test_0001_v2,fresh_variant_2,B,B,1,1,B. buildings will be made safer
+arcc_test_0004,arcc_test_0004_orig,original_public,D,C,0,1,C. They have each lost the same amount of potential energy.
+arcc_test_0004,arcc_test_0004_v1,fresh_variant_1,D,C,0,1,C. They have each lost the same amount of potential energy.
+arcc_test_0004,arcc_test_0004_v2,fresh_variant_2,D,C,0,1,C. They have each lost the same amount of potential energy.
+arcc_test_0006,arcc_test_0006_orig,original_public,C,C,1,1,C. to store food that will be eaten over the winter months
+arcc_test_0006,arcc_test_0006_v1,fresh_variant_1,C,C,1,1,C. to store food that will be eaten over the winter months
+arcc_test_0006,arcc_test_0006_v2,fresh_variant_2,C,C,1,1,C. to store food that will be eaten over the winter months
+arcc_test_0012,arcc_test_0012_orig,original_public,C,B,0,1,B. 41° F
+arcc_test_0012,arcc_test_0012_v1,fresh_variant_1,C,B,0,1,B. 41° F
+arcc_test_0012,arcc_test_0012_v2,fresh_variant_2,C,B,0,1,B. 41° F
+arcc_test_0017,arcc_test_0017_orig,original_public,B,A,0,1,A. from the ice to the tea
+arcc_test_0017,arcc_test_0017_v1,fresh_variant_1,B,A,0,1,A
+arcc_test_0017,arcc_test_0017_v2,fresh_variant_2,B,D,0,1,D. from the ice to the pitcher
+arcc_test_0023,arcc_test_0023_orig,original_public,C,D,0,1,D. 90°F.
+arcc_test_0023,arcc_test_0023_v1,fresh_variant_1,C,B,0,1,B. 50°F.
+arcc_test_0023,arcc_test_0023_v2,fresh_variant_2,C,D,0,1,D. 90°F.
+arcc_test_0025,arcc_test_0025_orig,original_public,D,A,0,1,A. It condensed.
+arcc_test_0025,arcc_test_0025_v1,fresh_variant_1,D,A,0,1,A. It condensed.
+arcc_test_0025,arcc_test_0025_v2,fresh_variant_2,D,B,0,1,B. It evaporated.
+arcc_test_0032,arcc_test_0032_orig,original_public,A,A,1,1,A. Air is a mixture of gases.
+arcc_test_0032,arcc_test_0032_v1,fresh_variant_1,A,A,1,1,A
+arcc_test_0032,arcc_test_0032_v2,fresh_variant_2,A,A,1,1,A. Air is a mixture of gases.
+arcc_test_0046,arcc_test_0046_orig,original_public,C,C,1,1,C. satellite
+arcc_test_0046,arcc_test_0046_v1,fresh_variant_1,C,C,1,1,C. satellite
+arcc_test_0046,arcc_test_0046_v2,fresh_variant_2,C,C,1,1,C. satellite
+arcc_test_0054,arcc_test_0054_orig,original_public,C,B,0,1,B. tectonic movements
+arcc_test_0054,arcc_test_0054_v1,fresh_variant_1,C,B,0,1,B. tectonic movements
+arcc_test_0054,arcc_test_0054_v2,fresh_variant_2,C,B,0,1,B. tectonic movements
+arcc_test_0057,arcc_test_0057_orig,original_public,A,A,1,1,A. to generate an electric current
+arcc_test_0057,arcc_test_0057_v1,fresh_variant_1,A,A,1,1,A. to generate an electric current
+arcc_test_0057,arcc_test_0057_v2,fresh_variant_2,A,A,1,1,A. to generate an electric current
+arcc_test_0060,arcc_test_0060_orig,original_public,D,D,1,1,D. NaCl + H_{2}O
+arcc_test_0060,arcc_test_0060_v1,fresh_variant_1,D,D,1,1,D. NaCl + H_{2}O
+arcc_test_0060,arcc_test_0060_v2,fresh_variant_2,D,D,1,1,D. NaCl + H_{2}O
+arcc_test_0073,arcc_test_0073_orig,original_public,D,D,1,1,D. become deeper and wider.
+arcc_test_0073,arcc_test_0073_v1,fresh_variant_1,D,D,1,1,D. become deeper and wider.
+arcc_test_0073,arcc_test_0073_v2,fresh_variant_2,D,D,1,1,D. become deeper and wider.
+arcc_test_0081,arcc_test_0081_orig,original_public,C,C,1,1,C. attracting prey
+arcc_test_0081,arcc_test_0081_v1,fresh_variant_1,C,C,1,1,C. attracting prey
+arcc_test_0081,arcc_test_0081_v2,fresh_variant_2,C,C,1,1,C. attracting prey
+arcc_test_0082,arcc_test_0082_orig,original_public,C,C,1,1,C. a solid.
+arcc_test_0082,arcc_test_0082_v1,fresh_variant_1,C,B,0,1,B. a liquid.
+arcc_test_0082,arcc_test_0082_v2,fresh_variant_2,C,B,0,1,B. a liquid.
+arcc_test_0083,arcc_test_0083_orig,original_public,D,D,1,1,D. the scientific method.
+arcc_test_0083,arcc_test_0083_v1,fresh_variant_1,D,D,1,1,D. the scientific method.
+arcc_test_0083,arcc_test_0083_v2,fresh_variant_2,D,D,1,1,D. the scientific method.
+arcc_test_0097,arcc_test_0097_orig,original_public,B,B,1,1,B. Materials are pressed together.
+arcc_test_0097,arcc_test_0097_v1,fresh_variant_1,B,B,1,1,B. Materials are pressed together.
+arcc_test_0097,arcc_test_0097_v2,fresh_variant_2,B,B,1,1,B. Materials are pressed together.
+arcc_test_0099,arcc_test_0099_orig,original_public,B,B,1,1,B. The ball reflects light.
+arcc_test_0099,arcc_test_0099_v1,fresh_variant_1,B,B,1,1,B. The ball reflects light.
+arcc_test_0099,arcc_test_0099_v2,fresh_variant_2,B,B,1,1,B. The ball reflects light.
+arcc_test_0104,arcc_test_0104_orig,original_public,C,C,1,1,C. breathing masks
+arcc_test_0104,arcc_test_0104_v1,fresh_variant_1,C,C,1,1,C. breathing masks
+arcc_test_0104,arcc_test_0104_v2,fresh_variant_2,C,C,1,1,C. breathing masks
+arcc_test_0115,arcc_test_0115_orig,original_public,D,D,1,1,D. The atom becomes negatively charged.
+arcc_test_0115,arcc_test_0115_v1,fresh_variant_1,D,D,1,1,D. The atom becomes negatively charged.
+arcc_test_0115,arcc_test_0115_v2,fresh_variant_2,D,D,1,1,D. The atom becomes negatively charged.
+arcc_test_0131,arcc_test_0131_orig,original_public,C,A,0,1,"A. iodine, iron, nickel"
+arcc_test_0131,arcc_test_0131_v1,fresh_variant_1,C,C,1,1,C
+arcc_test_0131,arcc_test_0131_v2,fresh_variant_2,C,C,1,1,"C. sodium, chromium, copper"
+arcc_test_0133,arcc_test_0133_orig,original_public,B,B,1,1,B. weight
+arcc_test_0133,arcc_test_0133_v1,fresh_variant_1,B,B,1,1,B. weight
+arcc_test_0133,arcc_test_0133_v2,fresh_variant_2,B,B,1,1,B. weight
+arcc_test_0134,arcc_test_0134_orig,original_public,B,B,1,1,B. the buildup of dunes along the coast over time
+arcc_test_0134,arcc_test_0134_v1,fresh_variant_1,B,B,1,1,B. the buildup of dunes along the coast over time
+arcc_test_0134,arcc_test_0134_v2,fresh_variant_2,B,B,1,1,B. the buildup of dunes along the coast over time
+arcc_test_0137,arcc_test_0137_orig,original_public,B,B,1,1,B. What genes determine tulip petal color?
+arcc_test_0137,arcc_test_0137_v1,fresh_variant_1,B,B,1,1,B. What genes determine tulip petal color?
+arcc_test_0137,arcc_test_0137_v2,fresh_variant_2,B,B,1,1,B. What genes determine tulip petal color?
+arcc_test_0138,arcc_test_0138_orig,original_public,A,A,1,1,A. maximum load the bridge can support
+arcc_test_0138,arcc_test_0138_v1,fresh_variant_1,A,A,1,1,A. maximum load the bridge can support
+arcc_test_0138,arcc_test_0138_v2,fresh_variant_2,A,A,1,1,A. maximum load the bridge can support
+arcc_test_0139,arcc_test_0139_orig,original_public,B,A,0,1,A. number of protons
+arcc_test_0139,arcc_test_0139_v1,fresh_variant_1,B,A,0,1,A. number of protons
+arcc_test_0139,arcc_test_0139_v2,fresh_variant_2,B,C,0,1,C. atomic mass
+arcc_test_0147,arcc_test_0147_orig,original_public,A,D,0,1,D. fuses hydrogen to make helium.
+arcc_test_0147,arcc_test_0147_v1,fresh_variant_1,A,D,0,1,D. fuses hydrogen to make helium.
+arcc_test_0147,arcc_test_0147_v2,fresh_variant_2,A,D,0,1,D. fuses hydrogen to make helium.
+arcc_test_0150,arcc_test_0150_orig,original_public,C,B,0,1,B. phosphorus.
+arcc_test_0150,arcc_test_0150_v1,fresh_variant_1,C,D,0,1,D. nitrogen.
+arcc_test_0150,arcc_test_0150_v2,fresh_variant_2,C,D,0,1,D. nitrogen.
+arcc_test_0154,arcc_test_0154_orig,original_public,B,B,1,1,B. The tile floor conducts heat better than the carpet.
+arcc_test_0154,arcc_test_0154_v1,fresh_variant_1,B,B,1,1,B. The tile floor conducts heat better than the carpet.
+arcc_test_0154,arcc_test_0154_v2,fresh_variant_2,B,D,0,1,D. The tile floor is a better insulator than the carpet.
+arcc_test_0156,arcc_test_0156_orig,original_public,C,B,0,1,B. thymine
+arcc_test_0156,arcc_test_0156_v1,fresh_variant_1,C,B,0,1,B. thymine
+arcc_test_0156,arcc_test_0156_v2,fresh_variant_2,C,B,0,1,B. thymine
+arcc_test_0159,arcc_test_0159_orig,original_public,B,B,1,1,B. a garbage can rusting
+arcc_test_0159,arcc_test_0159_v1,fresh_variant_1,B,B,1,1,B. a garbage can rusting
+arcc_test_0159,arcc_test_0159_v2,fresh_variant_2,B,B,1,1,B
+arcc_test_0162,arcc_test_0162_orig,original_public,A,D,0,1,D. The fish will find another food source.
+arcc_test_0162,arcc_test_0162_v1,fresh_variant_1,A,D,0,1,D. The fish will find another food source.
+arcc_test_0162,arcc_test_0162_v2,fresh_variant_2,A,B,0,1,B. The insects will become more resistant to the pesticide.
+arcc_test_0170,arcc_test_0170_orig,original_public,D,A,0,1,A
+arcc_test_0170,arcc_test_0170_v1,fresh_variant_1,D,A,0,1,A
+arcc_test_0170,arcc_test_0170_v2,fresh_variant_2,D,A,0,1,A
+arcc_test_0172,arcc_test_0172_orig,original_public,B,D,0,1,D. It leaks onto the ground and contaminates soil and ground water.
+arcc_test_0172,arcc_test_0172_v1,fresh_variant_1,B,D,0,1,D. It leaks onto the ground and contaminates soil and ground water.
+arcc_test_0172,arcc_test_0172_v2,fresh_variant_2,B,D,0,1,D. It leaks onto the ground and contaminates soil and ground water.
+arcc_test_0177,arcc_test_0177_orig,original_public,A,D,0,1,D.
+arcc_test_0177,arcc_test_0177_v1,fresh_variant_1,A,D,0,1,D.
+arcc_test_0177,arcc_test_0177_v2,fresh_variant_2,A,D,0,1,D.
+arcc_test_0185,arcc_test_0185_orig,original_public,C,C,1,1,C. Velocity remains positive but acceleration becomes negative.
+arcc_test_0185,arcc_test_0185_v1,fresh_variant_1,C,D,0,1,D. Velocity becomes negative but acceleration remains positive.
+arcc_test_0185,arcc_test_0185_v2,fresh_variant_2,C,C,1,1,C. Velocity remains positive but acceleration becomes negative.
+arcc_test_0187,arcc_test_0187_orig,original_public,A,C,0,1,C. The ball traveled 97 m.
+arcc_test_0187,arcc_test_0187_v1,fresh_variant_1,A,C,0,1,C. The ball traveled 97 m.
+arcc_test_0187,arcc_test_0187_v2,fresh_variant_2,A,D,0,1,D. The ball has a mass of 0.20 kg.
+arcc_test_0194,arcc_test_0194_orig,original_public,B,B,1,1,B. by using identical rain gauges in each location
+arcc_test_0194,arcc_test_0194_v1,fresh_variant_1,B,B,1,1,B. by using identical rain gauges in each location
+arcc_test_0194,arcc_test_0194_v2,fresh_variant_2,B,B,1,1,B. by using identical rain gauges in each location
+arcc_test_0203,arcc_test_0203_orig,original_public,B,C,0,1,C. The tea and water separate easily.
+arcc_test_0203,arcc_test_0203_v1,fresh_variant_1,B,C,0,1,C. The tea and water separate easily.
+arcc_test_0203,arcc_test_0203_v2,fresh_variant_2,B,B,1,1,B. The tea spreads evenly through the water.
+arcc_test_0208,arcc_test_0208_orig,original_public,C,C,1,1,C. It is an inherited behavior that maintains the population.
+arcc_test_0208,arcc_test_0208_v1,fresh_variant_1,C,D,0,1,D. It is an inherited behavior that maintains salt concentrations.
+arcc_test_0208,arcc_test_0208_v2,fresh_variant_2,C,C,1,1,C. It is an inherited behavior that maintains the population.
+arcc_test_0214,arcc_test_0214_orig,original_public,B,B,1,1,B. Design an experiment that tests multiple types of popcorn using repeated trials.
+arcc_test_0214,arcc_test_0214_v1,fresh_variant_1,B,B,1,1,B. Design an experiment that tests multiple types of popcorn using repeated trials.
+arcc_test_0214,arcc_test_0214_v2,fresh_variant_2,B,B,1,1,B. Design an experiment that tests multiple types of popcorn using repeated trials.
+arcc_test_0220,arcc_test_0220_orig,original_public,A,D,0,1,D.
+arcc_test_0220,arcc_test_0220_v1,fresh_variant_1,A,D,0,1,D.
+arcc_test_0220,arcc_test_0220_v2,fresh_variant_2,A,A,1,1,A. pencils falling from the same height
+arcc_test_0222,arcc_test_0222_orig,original_public,A,C,0,1,C. plate tectonics.
+arcc_test_0222,arcc_test_0222_v1,fresh_variant_1,A,C,0,1,C. plate tectonics.
+arcc_test_0222,arcc_test_0222_v2,fresh_variant_2,A,C,0,1,C. plate tectonics.
+arcc_test_0223,arcc_test_0223_orig,original_public,A,C,0,1,C. Measure the weight of the bread.
+arcc_test_0223,arcc_test_0223_v1,fresh_variant_1,A,A,1,1,A. Check the bread each day.
+arcc_test_0223,arcc_test_0223_v2,fresh_variant_2,A,C,0,1,C. Measure the weight of the bread.
+arcc_test_0224,arcc_test_0224_orig,original_public,A,A,1,1,A. sunlight
+arcc_test_0224,arcc_test_0224_v1,fresh_variant_1,A,A,1,1,A. sunlight
+arcc_test_0224,arcc_test_0224_v2,fresh_variant_2,A,A,1,1,A. sunlight
+arcc_test_0227,arcc_test_0227_orig,original_public,B,B,1,1,B. People are able to access information from many locations.
+arcc_test_0227,arcc_test_0227_v1,fresh_variant_1,B,B,1,1,B. People are able to access information from many locations.
+arcc_test_0227,arcc_test_0227_v2,fresh_variant_2,B,B,1,1,B. People are able to access information from many locations.
+arcc_test_0235,arcc_test_0235_orig,original_public,B,B,1,1,B. Stored energy changes to motion and heat.
+arcc_test_0235,arcc_test_0235_v1,fresh_variant_1,B,B,1,1,B. Stored energy changes to motion and heat.
+arcc_test_0235,arcc_test_0235_v2,fresh_variant_2,B,B,1,1,B. Stored energy changes to motion and heat.
+arcc_test_0240,arcc_test_0240_orig,original_public,D,D,1,1,D. Leave the area exactly as they found it.
+arcc_test_0240,arcc_test_0240_v1,fresh_variant_1,D,D,1,1,D. Leave the area exactly as they found it.
+arcc_test_0240,arcc_test_0240_v2,fresh_variant_2,D,D,1,1,D. Leave the area exactly as they found it.
+arcc_test_0244,arcc_test_0244_orig,original_public,B,B,1,1,B. The mass of the feathers is less than the mass of the nails.
+arcc_test_0244,arcc_test_0244_v1,fresh_variant_1,B,B,1,1,B. The mass of the feathers is less than the mass of the nails.
+arcc_test_0244,arcc_test_0244_v2,fresh_variant_2,B,B,1,1,B. The mass of the feathers is less than the mass of the nails.
+arcc_test_0245,arcc_test_0245_orig,original_public,C,C,1,1,C. general climate
+arcc_test_0245,arcc_test_0245_v1,fresh_variant_1,C,C,1,1,C. general climate
+arcc_test_0245,arcc_test_0245_v2,fresh_variant_2,C,C,1,1,C. general climate
+arcc_test_0266,arcc_test_0266_orig,original_public,A,B,0,1,B. Plants can live without water.
+arcc_test_0266,arcc_test_0266_v1,fresh_variant_1,A,B,0,1,B. Plants can live without water.
+arcc_test_0266,arcc_test_0266_v2,fresh_variant_2,A,B,0,1,B. Plants can live without water.
+arcc_test_0273,arcc_test_0273_orig,original_public,B,B,1,1,B. a mountain range
+arcc_test_0273,arcc_test_0273_v1,fresh_variant_1,B,B,1,1,B. a mountain range
+arcc_test_0273,arcc_test_0273_v2,fresh_variant_2,B,B,1,1,B. a mountain range
+arcc_test_0279,arcc_test_0279_orig,original_public,B,B,1,1,B. more fertile soils
+arcc_test_0279,arcc_test_0279_v1,fresh_variant_1,B,B,1,1,B. more fertile soils
+arcc_test_0279,arcc_test_0279_v2,fresh_variant_2,B,B,1,1,B. more fertile soils
+arcc_test_0282,arcc_test_0282_orig,original_public,A,C,0,1,C. Rock solidifies slowly deep underground.
+arcc_test_0282,arcc_test_0282_v1,fresh_variant_1,A,C,0,1,C. Rock solidifies slowly deep underground.
+arcc_test_0282,arcc_test_0282_v2,fresh_variant_2,A,C,0,1,C. Rock solidifies slowly deep underground.
+arcc_test_0286,arcc_test_0286_orig,original_public,C,C,1,1,C. Cells break down nutrients into usable forms.
+arcc_test_0286,arcc_test_0286_v1,fresh_variant_1,C,C,1,1,C. Cells break down nutrients into usable forms.
+arcc_test_0286,arcc_test_0286_v2,fresh_variant_2,C,C,1,1,C. Cells break down nutrients into usable forms.
+arcc_test_0291,arcc_test_0291_orig,original_public,B,C,0,1,C
+arcc_test_0291,arcc_test_0291_v1,fresh_variant_1,B,A,0,1,A
+arcc_test_0291,arcc_test_0291_v2,fresh_variant_2,B,A,0,1,A
+arcc_test_0296,arcc_test_0296_orig,original_public,C,D,0,1,D.
+arcc_test_0296,arcc_test_0296_v1,fresh_variant_1,C,D,0,1,D.
+arcc_test_0296,arcc_test_0296_v2,fresh_variant_2,C,D,0,1,D. Paper products come from wood.
+arcc_test_0298,arcc_test_0298_orig,original_public,B,B,1,1,B. a decrease in the amount of oxygen.
+arcc_test_0298,arcc_test_0298_v1,fresh_variant_1,B,D,0,1,D. an increase in the fish population.
+arcc_test_0298,arcc_test_0298_v2,fresh_variant_2,B,B,1,1,B. a decrease in the amount of oxygen.
+arcc_test_0306,arcc_test_0306_orig,original_public,D,D,1,1,D. nervous system
+arcc_test_0306,arcc_test_0306_v1,fresh_variant_1,D,D,1,1,D. nervous system
+arcc_test_0306,arcc_test_0306_v2,fresh_variant_2,D,D,1,1,D. nervous system
+arcc_test_0310,arcc_test_0310_orig,original_public,B,A,0,1,A. there is no control group.
+arcc_test_0310,arcc_test_0310_v1,fresh_variant_1,B,D,0,1,D. it does not have a testable hypothesis.
+arcc_test_0310,arcc_test_0310_v2,fresh_variant_2,B,D,0,1,D. it does not have a testable hypothesis.
+arcc_test_0312,arcc_test_0312_orig,original_public,D,D,1,1,D. air
+arcc_test_0312,arcc_test_0312_v1,fresh_variant_1,D,D,1,1,D. air
+arcc_test_0312,arcc_test_0312_v2,fresh_variant_2,D,D,1,1,D. air
+arcc_test_0316,arcc_test_0316_orig,original_public,C,D,0,1,D
+arcc_test_0316,arcc_test_0316_v1,fresh_variant_1,C,D,0,1,D
+arcc_test_0316,arcc_test_0316_v2,fresh_variant_2,C,D,0,1,D
+arcc_test_0319,arcc_test_0319_orig,original_public,B,D,0,1,D. water
+arcc_test_0319,arcc_test_0319_v1,fresh_variant_1,B,D,0,1,D. water
+arcc_test_0319,arcc_test_0319_v2,fresh_variant_2,B,D,0,1,D. water
+arcc_test_0326,arcc_test_0326_orig,original_public,B,B,1,1,B. intense pressure
+arcc_test_0326,arcc_test_0326_v1,fresh_variant_1,B,B,1,1,B. intense pressure
+arcc_test_0326,arcc_test_0326_v2,fresh_variant_2,B,B,1,1,B. intense pressure
+arcc_test_0329,arcc_test_0329_orig,original_public,D,B,0,1,B. screws
+arcc_test_0329,arcc_test_0329_v1,fresh_variant_1,D,B,0,1,B. screws
+arcc_test_0329,arcc_test_0329_v2,fresh_variant_2,D,B,0,1,B. screws
+arcc_test_0334,arcc_test_0334_orig,original_public,C,D,0,1,D. All ecosystems require thoughtful human management.
+arcc_test_0334,arcc_test_0334_v1,fresh_variant_1,C,D,0,1,D. All ecosystems require thoughtful human management.
+arcc_test_0334,arcc_test_0334_v2,fresh_variant_2,C,D,0,1,D. All ecosystems require thoughtful human management.
+arcc_test_0339,arcc_test_0339_orig,original_public,D,B,0,1,B. increase surface area of walls
+arcc_test_0339,arcc_test_0339_v1,fresh_variant_1,D,B,0,1,B. increase surface area of walls
+arcc_test_0339,arcc_test_0339_v2,fresh_variant_2,D,B,0,1,B. increase surface area of walls
+arcc_test_0342,arcc_test_0342_orig,original_public,B,B,1,1,B. adding more plants
+arcc_test_0342,arcc_test_0342_v1,fresh_variant_1,B,B,1,1,B
+arcc_test_0342,arcc_test_0342_v2,fresh_variant_2,B,B,1,1,B
+arcc_test_0354,arcc_test_0354_orig,original_public,D,D,1,1,D. exists naturally in three states on Earth.
+arcc_test_0354,arcc_test_0354_v1,fresh_variant_1,D,D,1,1,D. exists naturally in three states on Earth.
+arcc_test_0354,arcc_test_0354_v2,fresh_variant_2,D,D,1,1,D. exists naturally in three states on Earth.
+arcc_test_0358,arcc_test_0358_orig,original_public,D,A,0,1,A. group 1 (1A)
+arcc_test_0358,arcc_test_0358_v1,fresh_variant_1,D,D,1,1,D. group 18 (8A)
+arcc_test_0358,arcc_test_0358_v2,fresh_variant_2,D,A,0,1,A. group 1 (1A)
+arcc_test_0363,arcc_test_0363_orig,original_public,A,A,1,1,A. space probe
+arcc_test_0363,arcc_test_0363_v1,fresh_variant_1,A,A,1,1,A. space probe
+arcc_test_0363,arcc_test_0363_v2,fresh_variant_2,A,A,1,1,A. space probe
+arcc_test_0368,arcc_test_0368_orig,original_public,C,D,0,1,D. Winds die down.
+arcc_test_0368,arcc_test_0368_v1,fresh_variant_1,C,B,0,1,B. Temperatures increase.
+arcc_test_0368,arcc_test_0368_v2,fresh_variant_2,C,B,0,1,B. Temperatures increase.
+arcc_test_0380,arcc_test_0380_orig,original_public,A,C,0,1,C
+arcc_test_0380,arcc_test_0380_v1,fresh_variant_1,A,C,0,1,C
+arcc_test_0380,arcc_test_0380_v2,fresh_variant_2,A,C,0,1,C
+arcc_test_0382,arcc_test_0382_orig,original_public,C,C,1,1,C. There is less water vapor in the desert air.
+arcc_test_0382,arcc_test_0382_v1,fresh_variant_1,C,C,1,1,C. There is less water vapor in the desert air.
+arcc_test_0382,arcc_test_0382_v2,fresh_variant_2,C,C,1,1,C. There is less water vapor in the desert air.
+arcc_test_0387,arcc_test_0387_orig,original_public,D,C,0,1,"C. the clear window glass, because it is transparent"
+arcc_test_0387,arcc_test_0387_v1,fresh_variant_1,D,D,1,1,"D. the frosted window glass, because it is translucent"
+arcc_test_0387,arcc_test_0387_v2,fresh_variant_2,D,C,0,1,"C. the clear window glass, because it is transparent"
+arcc_test_0395,arcc_test_0395_orig,original_public,C,C,1,1,C. the reproduction of algae.
+arcc_test_0395,arcc_test_0395_v1,fresh_variant_1,C,C,1,1,C. the reproduction of algae.
+arcc_test_0395,arcc_test_0395_v2,fresh_variant_2,C,C,1,1,C. the reproduction of algae.
+arcc_test_0407,arcc_test_0407_orig,original_public,D,D,1,1,D. an inference.
+arcc_test_0407,arcc_test_0407_v1,fresh_variant_1,D,D,1,1,D. an inference.
+arcc_test_0407,arcc_test_0407_v2,fresh_variant_2,D,D,1,1,D. an inference.
+arcc_test_0413,arcc_test_0413_orig,original_public,A,D,0,1,D. 3 times
+arcc_test_0413,arcc_test_0413_v1,fresh_variant_1,A,D,0,1,D. 3 times
+arcc_test_0413,arcc_test_0413_v2,fresh_variant_2,A,D,0,1,D. 3 times
+arcc_test_0417,arcc_test_0417_orig,original_public,D,D,1,1,D
+arcc_test_0417,arcc_test_0417_v1,fresh_variant_1,D,D,1,1,D
+arcc_test_0417,arcc_test_0417_v2,fresh_variant_2,D,D,1,1,D. A student's sunglass lenses
+arcc_test_0419,arcc_test_0419_orig,original_public,B,B,1,1,B. improves the reliability of the results.
+arcc_test_0419,arcc_test_0419_v1,fresh_variant_1,B,B,1,1,B. improves the reliability of the results.
+arcc_test_0419,arcc_test_0419_v2,fresh_variant_2,B,B,1,1,B. improves the reliability of the results.
+arcc_test_0439,arcc_test_0439_orig,original_public,C,B,0,1,B. both will fall at the same rate
+arcc_test_0439,arcc_test_0439_v1,fresh_variant_1,C,B,0,1,B. both will fall at the same rate
+arcc_test_0439,arcc_test_0439_v2,fresh_variant_2,C,B,0,1,B. both will fall at the same rate
+arcc_test_0443,arcc_test_0443_orig,original_public,A,A,1,1,A. A solution is a mixture whose components are similar throughout.
+arcc_test_0443,arcc_test_0443_v1,fresh_variant_1,A,A,1,1,A. A solution is a mixture whose components are similar throughout.
+arcc_test_0443,arcc_test_0443_v2,fresh_variant_2,A,A,1,1,A. A solution is a mixture whose components are similar throughout.
+arcc_test_0445,arcc_test_0445_orig,original_public,D,D,1,1,D. to collect acorns and bury them in the soil.
+arcc_test_0445,arcc_test_0445_v1,fresh_variant_1,D,D,1,1,D. to collect acorns and bury them in the soil.
+arcc_test_0445,arcc_test_0445_v2,fresh_variant_2,D,D,1,1,D. to collect acorns and bury them in the soil.
+arcc_test_0447,arcc_test_0447_orig,original_public,D,D,1,1,D. reduces the number of trees cut down.
+arcc_test_0447,arcc_test_0447_v1,fresh_variant_1,D,D,1,1,D. reduces the number of trees cut down.
+arcc_test_0447,arcc_test_0447_v2,fresh_variant_2,D,D,1,1,D. reduces the number of trees cut down.
+arcc_test_0462,arcc_test_0462_orig,original_public,B,B,1,1,B. New evidence caused revisions.
+arcc_test_0462,arcc_test_0462_v1,fresh_variant_1,B,B,1,1,B. New evidence caused revisions.
+arcc_test_0462,arcc_test_0462_v2,fresh_variant_2,B,B,1,1,B. New evidence caused revisions.
+arcc_test_0468,arcc_test_0468_orig,original_public,A,A,1,1,A. They are safer for the environment.
+arcc_test_0468,arcc_test_0468_v1,fresh_variant_1,A,D,0,1,D. They produce more energy.
+arcc_test_0468,arcc_test_0468_v2,fresh_variant_2,A,A,1,1,A. They are safer for the environment.
+arcc_test_0469,arcc_test_0469_orig,original_public,C,C,1,1,C. have accurate notes describing the location.
+arcc_test_0469,arcc_test_0469_v1,fresh_variant_1,C,D,0,1,D. have accurate notes describing the location.
+arcc_test_0469,arcc_test_0469_v2,fresh_variant_2,C,D,0,1,D. have accurate notes describing the location.
+arcc_test_0471,arcc_test_0471_orig,original_public,D,D,1,1,D. The skin stabilizes temperature.
+arcc_test_0471,arcc_test_0471_v1,fresh_variant_1,D,D,1,1,D. The skin stabilizes temperature.
+arcc_test_0471,arcc_test_0471_v2,fresh_variant_2,D,D,1,1,D. The skin stabilizes temperature.
+arcc_test_0492,arcc_test_0492_orig,original_public,A,D,0,1,D. Water is the universal solvent.
+arcc_test_0492,arcc_test_0492_v1,fresh_variant_1,A,D,0,1,D. Water is the universal solvent.
+arcc_test_0492,arcc_test_0492_v2,fresh_variant_2,A,D,0,1,D. Water is the universal solvent.
+arcc_test_0500,arcc_test_0500_orig,original_public,C,C,1,1,C. The number of atoms in the water remains constant.
+arcc_test_0500,arcc_test_0500_v1,fresh_variant_1,C,C,1,1,C. The number of atoms in the water remains constant.
+arcc_test_0500,arcc_test_0500_v2,fresh_variant_2,C,C,1,1,C. The number of atoms in the water remains constant.
+arcc_test_0502,arcc_test_0502_orig,original_public,C,C,1,1,C. The total mass remains the same.
+arcc_test_0502,arcc_test_0502_v1,fresh_variant_1,C,C,1,1,C. The total mass remains the same.
+arcc_test_0502,arcc_test_0502_v2,fresh_variant_2,C,C,1,1,C. The total mass remains the same.
+arcc_test_0511,arcc_test_0511_orig,original_public,C,D,0,1,D. the Moon
+arcc_test_0511,arcc_test_0511_v1,fresh_variant_1,C,B,0,1,B. Saturn
+arcc_test_0511,arcc_test_0511_v2,fresh_variant_2,C,B,0,1,B. Saturn
+arcc_test_0514,arcc_test_0514_orig,original_public,C,D,0,1,D. coral reefs can form on dry land.
+arcc_test_0514,arcc_test_0514_v1,fresh_variant_1,C,D,0,1,D. coral reefs can form on dry land.
+arcc_test_0514,arcc_test_0514_v2,fresh_variant_2,C,D,0,1,D. coral reefs can form on dry land.
+arcc_test_0515,arcc_test_0515_orig,original_public,A,B,0,1,B. more easily moved than air molecules.
+arcc_test_0515,arcc_test_0515_v1,fresh_variant_1,A,B,0,1,B. more easily moved than air molecules.
+arcc_test_0515,arcc_test_0515_v2,fresh_variant_2,A,B,0,1,B. more easily moved than air molecules.
+arcc_test_0516,arcc_test_0516_orig,original_public,B,D,0,1,D. a DNA molecule in a mitochondrion
+arcc_test_0516,arcc_test_0516_v1,fresh_variant_1,B,D,0,1,D. a DNA molecule in a mitochondrion
+arcc_test_0516,arcc_test_0516_v2,fresh_variant_2,B,D,0,1,D. a DNA molecule in a mitochondrion
+arcc_test_0523,arcc_test_0523_orig,original_public,A,A,1,1,A. artificial substances that mimic human peptides
+arcc_test_0523,arcc_test_0523_v1,fresh_variant_1,A,A,1,1,A. artificial substances that mimic human peptides
+arcc_test_0523,arcc_test_0523_v2,fresh_variant_2,A,A,1,1,A. artificial substances that mimic human peptides
+arcc_test_0525,arcc_test_0525_orig,original_public,B,B,1,1,B. glucose
+arcc_test_0525,arcc_test_0525_v1,fresh_variant_1,B,B,1,1,B. glucose
+arcc_test_0525,arcc_test_0525_v2,fresh_variant_2,B,B,1,1,B. glucose
+arcc_test_0531,arcc_test_0531_orig,original_public,C,C,1,1,C. The oceans store and transfer more heat than the continents.
+arcc_test_0531,arcc_test_0531_v1,fresh_variant_1,C,C,1,1,C. The oceans store and transfer more heat than the continents.
+arcc_test_0531,arcc_test_0531_v2,fresh_variant_2,C,C,1,1,C. The oceans store and transfer more heat than the continents.
+arcc_test_0532,arcc_test_0532_orig,original_public,C,C,1,1,C. All of the fossils show similar structures to that of the modern horse.
+arcc_test_0532,arcc_test_0532_v1,fresh_variant_1,C,C,1,1,C. All of the fossils show similar structures to that of the modern horse.
+arcc_test_0532,arcc_test_0532_v2,fresh_variant_2,C,C,1,1,C
+arcc_test_0535,arcc_test_0535_orig,original_public,A,C,0,1,C. seed dispersal
+arcc_test_0535,arcc_test_0535_v1,fresh_variant_1,A,B,0,1,B. pollination
+arcc_test_0535,arcc_test_0535_v2,fresh_variant_2,A,C,0,1,C. seed dispersal
+arcc_test_0541,arcc_test_0541_orig,original_public,C,C,1,1,C. Heredity of Earlobe Types
+arcc_test_0541,arcc_test_0541_v1,fresh_variant_1,C,C,1,1,C. Heredity of Earlobe Types
+arcc_test_0541,arcc_test_0541_v2,fresh_variant_2,C,C,1,1,C. Heredity of Earlobe Types
+arcc_test_0554,arcc_test_0554_orig,original_public,D,D,1,1,D. kind of surface on the ramp
+arcc_test_0554,arcc_test_0554_v1,fresh_variant_1,D,D,1,1,D. kind of surface on the ramp
+arcc_test_0554,arcc_test_0554_v2,fresh_variant_2,D,D,1,1,D. kind of surface on the ramp
+arcc_test_0558,arcc_test_0558_orig,original_public,D,D,1,1,D. mechanical to sound
+arcc_test_0558,arcc_test_0558_v1,fresh_variant_1,D,D,1,1,D. mechanical to sound
+arcc_test_0558,arcc_test_0558_v2,fresh_variant_2,D,D,1,1,D. mechanical to sound
+arcc_test_0564,arcc_test_0564_orig,original_public,B,B,1,1,B. Solid
+arcc_test_0564,arcc_test_0564_v1,fresh_variant_1,B,B,1,1,B. Solid
+arcc_test_0564,arcc_test_0564_v2,fresh_variant_2,B,B,1,1,B. Solid
+arcc_test_0574,arcc_test_0574_orig,original_public,B,B,1,1,B. a chemical change because a new substance was formed
+arcc_test_0574,arcc_test_0574_v1,fresh_variant_1,B,B,1,1,B. a chemical change because a new substance was formed
+arcc_test_0574,arcc_test_0574_v2,fresh_variant_2,B,B,1,1,B. a chemical change because a new substance was formed
+arcc_test_0577,arcc_test_0577_orig,original_public,C,C,1,1,C. It increased over-fishing and destruction of ecosystems.
+arcc_test_0577,arcc_test_0577_v1,fresh_variant_1,C,C,1,1,C. It increased over-fishing and destruction of ecosystems.
+arcc_test_0577,arcc_test_0577_v2,fresh_variant_2,C,C,1,1,C. It increased over-fishing and destruction of ecosystems.
+arcc_test_0584,arcc_test_0584_orig,original_public,A,D,0,1,D. Stop importation of all types of plants.
+arcc_test_0584,arcc_test_0584_v1,fresh_variant_1,A,C,0,1,C. Introduce a predator of the cacti.
+arcc_test_0584,arcc_test_0584_v2,fresh_variant_2,A,C,0,1,C. Introduce a predator of the cacti.
+arcc_test_0588,arcc_test_0588_orig,original_public,C,C,1,1,C. How much water will make a plant grow tallest?
+arcc_test_0588,arcc_test_0588_v1,fresh_variant_1,C,C,1,1,C. How much water will make a plant grow tallest?
+arcc_test_0588,arcc_test_0588_v2,fresh_variant_2,C,C,1,1,C. How much water will make a plant grow tallest?
+arcc_test_0595,arcc_test_0595_orig,original_public,A,A,1,1,A. The air stays cleaner.
+arcc_test_0595,arcc_test_0595_v1,fresh_variant_1,A,A,1,1,A. The air stays cleaner.
+arcc_test_0595,arcc_test_0595_v2,fresh_variant_2,A,A,1,1,A. The air stays cleaner.
+arcc_test_0599,arcc_test_0599_orig,original_public,D,D,1,1,D. Air pollution from the eruption caused a decrease in the amount of solar energy reaching Earth.
+arcc_test_0599,arcc_test_0599_v1,fresh_variant_1,D,D,1,1,D. Air pollution from the eruption caused a decrease in the amount of solar energy reaching Earth.
+arcc_test_0599,arcc_test_0599_v2,fresh_variant_2,D,D,1,1,D. Air pollution from the eruption caused a decrease in the amount of solar energy reaching Earth.
+arcc_test_0606,arcc_test_0606_orig,original_public,B,B,1,1,B. Black
+arcc_test_0606,arcc_test_0606_v1,fresh_variant_1,B,B,1,1,B. Black
+arcc_test_0606,arcc_test_0606_v2,fresh_variant_2,B,B,1,1,B. Black
+arcc_test_0611,arcc_test_0611_orig,original_public,B,B,1,1,B. over a long period of time
+arcc_test_0611,arcc_test_0611_v1,fresh_variant_1,B,B,1,1,B. over a long period of time.
+arcc_test_0611,arcc_test_0611_v2,fresh_variant_2,B,B,1,1,B. over a long period of time.
+arcc_test_0620,arcc_test_0620_orig,original_public,D,D,1,1,D. air pressure
+arcc_test_0620,arcc_test_0620_v1,fresh_variant_1,D,D,1,1,D. air pressure
+arcc_test_0620,arcc_test_0620_v2,fresh_variant_2,D,D,1,1,D. air pressure
+arcc_test_0627,arcc_test_0627_orig,original_public,B,B,1,1,B. a mutation in a parent's sex cell
+arcc_test_0627,arcc_test_0627_v1,fresh_variant_1,B,B,1,1,B. a mutation in a parent's sex cell
+arcc_test_0627,arcc_test_0627_v2,fresh_variant_2,B,B,1,1,B. a mutation in a parent's sex cell
+arcc_test_0636,arcc_test_0636_orig,original_public,B,A,0,1,A. when the river flow is low and the tide is low
+arcc_test_0636,arcc_test_0636_v1,fresh_variant_1,B,A,0,1,A. when the river flow is low and the tide is low
+arcc_test_0636,arcc_test_0636_v2,fresh_variant_2,B,A,0,1,A. when the river flow is low and the tide is low
+arcc_test_0638,arcc_test_0638_orig,original_public,C,B,0,1,B. length
+arcc_test_0638,arcc_test_0638_v1,fresh_variant_1,C,B,0,1,B. length
+arcc_test_0638,arcc_test_0638_v2,fresh_variant_2,C,B,0,1,B. length
+arcc_test_0644,arcc_test_0644_orig,original_public,A,D,0,1,D. physical change.
+arcc_test_0644,arcc_test_0644_v1,fresh_variant_1,A,D,0,1,D. physical change.
+arcc_test_0644,arcc_test_0644_v2,fresh_variant_2,A,D,0,1,D. physical change.
+arcc_test_0652,arcc_test_0652_orig,original_public,C,C,1,1,C. sharp thorns
+arcc_test_0652,arcc_test_0652_v1,fresh_variant_1,C,D,0,1,D. colorful flowers
+arcc_test_0652,arcc_test_0652_v2,fresh_variant_2,C,D,0,1,D. colorful flowers
+arcc_test_0656,arcc_test_0656_orig,original_public,B,B,1,1,B. wheels and axles.
+arcc_test_0656,arcc_test_0656_v1,fresh_variant_1,B,D,0,1,D.
+arcc_test_0656,arcc_test_0656_v2,fresh_variant_2,B,D,0,1,D.
+arcc_test_0663,arcc_test_0663_orig,original_public,A,D,0,1,D. precipitation
+arcc_test_0663,arcc_test_0663_v1,fresh_variant_1,A,D,0,1,D. precipitation
+arcc_test_0663,arcc_test_0663_v2,fresh_variant_2,A,D,0,1,D. precipitation
+arcc_test_0664,arcc_test_0664_orig,original_public,C,C,1,1,"C. The warm air expands and rises, resulting in convection."
+arcc_test_0664,arcc_test_0664_v1,fresh_variant_1,C,C,1,1,"C. The warm air expands and rises, resulting in convection."
+arcc_test_0664,arcc_test_0664_v2,fresh_variant_2,C,C,1,1,"C. The warm air expands and rises, resulting in convection."
+arcc_test_0668,arcc_test_0668_orig,original_public,C,C,1,1,C. Decomposers break down dead plants and animals.
+arcc_test_0668,arcc_test_0668_v1,fresh_variant_1,C,C,1,1,C. Decomposers break down dead plants and animals.
+arcc_test_0668,arcc_test_0668_v2,fresh_variant_2,C,C,1,1,C. Decomposers break down dead plants and animals.
+arcc_test_0673,arcc_test_0673_orig,original_public,C,D,0,1,D. 3:00 P.M.
+arcc_test_0673,arcc_test_0673_v1,fresh_variant_1,C,D,0,1,D. 3:00 P.M.
+arcc_test_0673,arcc_test_0673_v2,fresh_variant_2,C,D,0,1,D. 3:00 P.M.
+arcc_test_0674,arcc_test_0674_orig,original_public,A,A,1,1,A. chloroplast and mitochondrion
+arcc_test_0674,arcc_test_0674_v1,fresh_variant_1,A,A,1,1,A. chloroplast and mitochondrion
+arcc_test_0674,arcc_test_0674_v2,fresh_variant_2,A,A,1,1,A. chloroplast and mitochondrion
+arcc_test_0677,arcc_test_0677_orig,original_public,A,D,0,1,D. metamorphosis
+arcc_test_0677,arcc_test_0677_v1,fresh_variant_1,A,D,0,1,D. metamorphosis
+arcc_test_0677,arcc_test_0677_v2,fresh_variant_2,A,D,0,1,D. metamorphosis
+arcc_test_0683,arcc_test_0683_orig,original_public,C,D,0,1,D. large intestine.
+arcc_test_0683,arcc_test_0683_v1,fresh_variant_1,C,C,1,1,C. kidneys.
+arcc_test_0683,arcc_test_0683_v2,fresh_variant_2,C,D,0,1,D. large intestine.
+arcc_test_0685,arcc_test_0685_orig,original_public,B,C,0,1,C. about 3/4
+arcc_test_0685,arcc_test_0685_v1,fresh_variant_1,B,C,0,1,C. about 3/4
+arcc_test_0685,arcc_test_0685_v2,fresh_variant_2,B,C,0,1,C. about 3/4
+arcc_test_0689,arcc_test_0689_orig,original_public,D,B,0,1,B. wind vane and anemometer
+arcc_test_0689,arcc_test_0689_v1,fresh_variant_1,D,B,0,1,B. wind vane and anemometer
+arcc_test_0689,arcc_test_0689_v2,fresh_variant_2,D,B,0,1,B. wind vane and anemometer
+arcc_test_0698,arcc_test_0698_orig,original_public,B,B,1,1,B. It reflects the blue part of the light and absorbs most of the rest.
+arcc_test_0698,arcc_test_0698_v1,fresh_variant_1,B,B,1,1,B. It reflects the blue part of the light and absorbs most of the rest.
+arcc_test_0698,arcc_test_0698_v2,fresh_variant_2,B,B,1,1,B. It reflects the blue part of the light and absorbs most of the rest.
+arcc_test_0699,arcc_test_0699_orig,original_public,C,C,1,1,C. evaporation
+arcc_test_0699,arcc_test_0699_v1,fresh_variant_1,C,C,1,1,C. evaporation
+arcc_test_0699,arcc_test_0699_v2,fresh_variant_2,C,C,1,1,C. Evaporation
+arcc_test_0714,arcc_test_0714_orig,original_public,C,C,1,1,C. 63
+arcc_test_0714,arcc_test_0714_v1,fresh_variant_1,C,C,1,1,C. 63
+arcc_test_0714,arcc_test_0714_v2,fresh_variant_2,C,C,1,1,C. 63
+arcc_test_0722,arcc_test_0722_orig,original_public,D,D,1,1,D. become a solid
+arcc_test_0722,arcc_test_0722_v1,fresh_variant_1,D,D,1,1,D. become a solid
+arcc_test_0722,arcc_test_0722_v2,fresh_variant_2,D,D,1,1,D. become a solid
+arcc_test_0761,arcc_test_0761_orig,original_public,C,C,1,1,C. loss of animal habitats
+arcc_test_0761,arcc_test_0761_v1,fresh_variant_1,C,C,1,1,C. loss of animal habitats
+arcc_test_0761,arcc_test_0761_v2,fresh_variant_2,C,D,0,1,D. pollution of air
+arcc_test_0765,arcc_test_0765_orig,original_public,A,D,0,1,D. create a new hypothesis
+arcc_test_0765,arcc_test_0765_v1,fresh_variant_1,A,D,0,1,D. create a new hypothesis
+arcc_test_0765,arcc_test_0765_v2,fresh_variant_2,A,D,0,1,D. create a new hypothesis
+arcc_test_0766,arcc_test_0766_orig,original_public,D,D,1,1,D. She can publish her results in a scientific journal that covers issues relating to nerves.
+arcc_test_0766,arcc_test_0766_v1,fresh_variant_1,D,D,1,1,D. She can publish her results in a scientific journal that covers issues relating to nerves.
+arcc_test_0766,arcc_test_0766_v2,fresh_variant_2,D,D,1,1,D. She can publish her results in a scientific journal that covers issues relating to nerves.
+arcc_test_0770,arcc_test_0770_orig,original_public,D,D,1,1,D. Fat helps the polar bear float in water.
+arcc_test_0770,arcc_test_0770_v1,fresh_variant_1,D,D,1,1,D. Fat helps the polar bear float in water.
+arcc_test_0770,arcc_test_0770_v2,fresh_variant_2,D,D,1,1,D. Fat helps the polar bear float in water.
+arcc_test_0774,arcc_test_0774_orig,original_public,C,B,0,1,B. Exploding fireworks only
+arcc_test_0774,arcc_test_0774_v1,fresh_variant_1,C,B,0,1,B. Exploding fireworks only
+arcc_test_0774,arcc_test_0774_v2,fresh_variant_2,C,B,0,1,B. Exploding fireworks only
+arcc_test_0782,arcc_test_0782_orig,original_public,B,B,1,1,B. bacteria
+arcc_test_0782,arcc_test_0782_v1,fresh_variant_1,B,B,1,1,B. bacteria
+arcc_test_0782,arcc_test_0782_v2,fresh_variant_2,B,B,1,1,B. bacteria
+arcc_test_0787,arcc_test_0787_orig,original_public,C,D,0,1,D. the proper identification of each microorganism
+arcc_test_0787,arcc_test_0787_v1,fresh_variant_1,C,D,0,1,D. the proper identification of each microorganism
+arcc_test_0787,arcc_test_0787_v2,fresh_variant_2,C,D,0,1,D. the proper identification of each microorganism
+arcc_test_0790,arcc_test_0790_orig,original_public,A,C,0,1,C. An egg cell must move in order to reach the sperm cell.
+arcc_test_0790,arcc_test_0790_v1,fresh_variant_1,A,C,0,1,C. An egg cell must move in order to reach the sperm cell.
+arcc_test_0790,arcc_test_0790_v2,fresh_variant_2,A,C,0,1,C. An egg cell must move in order to reach the sperm cell.
+arcc_test_0824,arcc_test_0824_orig,original_public,D,B,0,1,B. The forces will reverse direction.
+arcc_test_0824,arcc_test_0824_v1,fresh_variant_1,D,B,0,1,B. The forces will reverse direction.
+arcc_test_0824,arcc_test_0824_v2,fresh_variant_2,D,B,0,1,B. The forces will reverse direction.
+arcc_test_0837,arcc_test_0837_orig,original_public,A,D,0,1,D. a definite shape.
+arcc_test_0837,arcc_test_0837_v1,fresh_variant_1,A,A,1,1,A. mass.
+arcc_test_0837,arcc_test_0837_v2,fresh_variant_2,A,A,1,1,A. mass.
+arcc_test_0840,arcc_test_0840_orig,original_public,C,C,1,1,C. seed -> young plant -> mature plant
+arcc_test_0840,arcc_test_0840_v1,fresh_variant_1,C,C,1,1,C. seed -> young plant -> mature plant
+arcc_test_0840,arcc_test_0840_v2,fresh_variant_2,C,C,1,1,C. seed -> young plant -> mature plant
+arcc_test_0847,arcc_test_0847_orig,original_public,B,D,0,1,D. There will be more oxygen released into the air.
+arcc_test_0847,arcc_test_0847_v1,fresh_variant_1,B,D,0,1,D. There will be more oxygen released into the air.
+arcc_test_0847,arcc_test_0847_v2,fresh_variant_2,B,D,0,1,D. There will be more oxygen released into the air.
+arcc_test_0848,arcc_test_0848_orig,original_public,B,C,0,1,C. 35.02 km/sec
+arcc_test_0848,arcc_test_0848_v1,fresh_variant_1,B,C,0,1,C. 35.02 km/sec
+arcc_test_0848,arcc_test_0848_v2,fresh_variant_2,B,C,0,1,C. 35.02 km/sec
+arcc_test_0851,arcc_test_0851_orig,original_public,C,C,1,1,C. It protects them from breaking in strong winds.
+arcc_test_0851,arcc_test_0851_v1,fresh_variant_1,C,C,1,1,C. It protects them from breaking in strong winds.
+arcc_test_0851,arcc_test_0851_v2,fresh_variant_2,C,D,0,1,D. It makes it very hard for them to be pulled from the ground.
+arcc_test_0854,arcc_test_0854_orig,original_public,B,B,1,1,B. 16 N
+arcc_test_0854,arcc_test_0854_v1,fresh_variant_1,B,B,1,1,B. 16 N
+arcc_test_0854,arcc_test_0854_v2,fresh_variant_2,B,B,1,1,B. 16 N
+arcc_test_0860,arcc_test_0860_orig,original_public,C,C,1,1,C. They both reproduce by laying eggs.
+arcc_test_0860,arcc_test_0860_v1,fresh_variant_1,C,C,1,1,C. They both reproduce by laying eggs.
+arcc_test_0860,arcc_test_0860_v2,fresh_variant_2,C,C,1,1,C. They both reproduce by laying eggs.
+arcc_test_0873,arcc_test_0873_orig,original_public,B,B,1,1,B. inherited trait to gain another inherited trait.
+arcc_test_0873,arcc_test_0873_v1,fresh_variant_1,B,B,1,1,B. inherited trait to gain an acquired trait.
+arcc_test_0873,arcc_test_0873_v2,fresh_variant_2,B,B,1,1,B. inherited trait to gain an acquired trait.
+arcc_test_0880,arcc_test_0880_orig,original_public,A,B,0,1,B. wipe up the spill
+arcc_test_0880,arcc_test_0880_v1,fresh_variant_1,A,B,0,1,B. wipe up the spill
+arcc_test_0880,arcc_test_0880_v2,fresh_variant_2,A,B,0,1,B. wipe up the spill
+arcc_test_0881,arcc_test_0881_orig,original_public,D,D,1,1,D. air density
+arcc_test_0881,arcc_test_0881_v1,fresh_variant_1,D,D,1,1,D. air density
+arcc_test_0881,arcc_test_0881_v2,fresh_variant_2,D,D,1,1,D. air density
+arcc_test_0901,arcc_test_0901_orig,original_public,B,B,1,1,B. Parasitism
+arcc_test_0901,arcc_test_0901_v1,fresh_variant_1,B,B,1,1,B. Parasitism
+arcc_test_0901,arcc_test_0901_v2,fresh_variant_2,B,B,1,1,B. Parasitism
+arcc_test_0919,arcc_test_0919_orig,original_public,B,C,0,1,C. 10 years
+arcc_test_0919,arcc_test_0919_v1,fresh_variant_1,B,C,0,1,C. 10 years
+arcc_test_0919,arcc_test_0919_v2,fresh_variant_2,B,C,0,1,C. 10 years
+arcc_test_0921,arcc_test_0921_orig,original_public,C,D,0,1,D. construction workers who build the farms
+arcc_test_0921,arcc_test_0921_v1,fresh_variant_1,C,D,0,1,D. construction workers who build the farms
+arcc_test_0921,arcc_test_0921_v2,fresh_variant_2,C,D,0,1,D. construction workers who build the farms
+arcc_test_0922,arcc_test_0922_orig,original_public,B,D,0,1,D. the direction of motion
+arcc_test_0922,arcc_test_0922_v1,fresh_variant_1,B,D,0,1,D. the direction of motion
+arcc_test_0922,arcc_test_0922_v2,fresh_variant_2,B,B,1,1,B. the amount of friction
+arcc_test_0928,arcc_test_0928_orig,original_public,D,D,1,1,D
+arcc_test_0928,arcc_test_0928_v1,fresh_variant_1,D,D,1,1,D
+arcc_test_0928,arcc_test_0928_v2,fresh_variant_2,D,D,1,1,D. moisture on mirror after hot shower
+arcc_test_0929,arcc_test_0929_orig,original_public,A,A,1,1,A. How many fish are surviving the changing environment?
+arcc_test_0929,arcc_test_0929_v1,fresh_variant_1,A,A,1,1,A. How many fish are surviving the changing environment?
+arcc_test_0929,arcc_test_0929_v2,fresh_variant_2,A,A,1,1,A. How many fish are surviving the changing environment?
+arcc_test_0935,arcc_test_0935_orig,original_public,D,D,1,1,D. a mountain chain
+arcc_test_0935,arcc_test_0935_v1,fresh_variant_1,D,D,1,1,D. a mountain chain
+arcc_test_0935,arcc_test_0935_v2,fresh_variant_2,D,D,1,1,D. a mountain chain
+arcc_test_0939,arcc_test_0939_orig,original_public,D,C,0,1,"C. 50% black, 50% white"
+arcc_test_0939,arcc_test_0939_v1,fresh_variant_1,D,C,0,1,"C. 50% black, 50% white"
+arcc_test_0939,arcc_test_0939_v2,fresh_variant_2,D,D,1,1,"D. 75% black, 25% white"
+arcc_test_0941,arcc_test_0941_orig,original_public,B,C,0,1,C
+arcc_test_0941,arcc_test_0941_v1,fresh_variant_1,B,B,1,1,B. the ability of ice to float on liquid water
+arcc_test_0941,arcc_test_0941_v2,fresh_variant_2,B,C,0,1,C
+arcc_test_0943,arcc_test_0943_orig,original_public,B,B,1,1,B. energy in the object is transferred to the surrounding air.
+arcc_test_0943,arcc_test_0943_v1,fresh_variant_1,B,B,1,1,B. energy in the object is transferred to the surrounding air.
+arcc_test_0943,arcc_test_0943_v2,fresh_variant_2,B,B,1,1,B. energy in the object is transferred to the surrounding air.
+arcc_test_0950,arcc_test_0950_orig,original_public,D,D,1,1,D. Six molecules of CO_{2} are needed as reactants.
+arcc_test_0950,arcc_test_0950_v1,fresh_variant_1,D,D,1,1,D. Six molecules of CO_{2} are needed as reactants.
+arcc_test_0950,arcc_test_0950_v2,fresh_variant_2,D,D,1,1,D. Six molecules of CO_{2} are needed as reactants.
+arcc_test_0952,arcc_test_0952_orig,original_public,C,C,1,1,C. hide when threatened.
+arcc_test_0952,arcc_test_0952_v1,fresh_variant_1,C,C,1,1,C. hide when threatened.
+arcc_test_0952,arcc_test_0952_v2,fresh_variant_2,C,C,1,1,C. hide when threatened.
+arcc_test_0968,arcc_test_0968_orig,original_public,C,C,1,1,C. ecological and ethical
+arcc_test_0968,arcc_test_0968_v1,fresh_variant_1,C,C,1,1,C. ecological and ethical
+arcc_test_0968,arcc_test_0968_v2,fresh_variant_2,C,C,1,1,C. ecological and ethical
+arcc_test_0974,arcc_test_0974_orig,original_public,A,A,1,1,A. Insulin stimulates cells to absorb glucose from the blood.
+arcc_test_0974,arcc_test_0974_v1,fresh_variant_1,A,A,1,1,A. Insulin stimulates cells to absorb glucose from the blood.
+arcc_test_0974,arcc_test_0974_v2,fresh_variant_2,A,A,1,1,A. Insulin stimulates cells to absorb glucose from the blood.
+arcc_test_0994,arcc_test_0994_orig,original_public,C,C,1,1,C. radiant
+arcc_test_0994,arcc_test_0994_v1,fresh_variant_1,C,C,1,1,C. radiant
+arcc_test_0994,arcc_test_0994_v2,fresh_variant_2,C,C,1,1,C. radiant
+arcc_test_0997,arcc_test_0997_orig,original_public,C,C,1,1,C
+arcc_test_0997,arcc_test_0997_v1,fresh_variant_1,C,C,1,1,C
+arcc_test_0997,arcc_test_0997_v2,fresh_variant_2,C,D,0,1,D. A person has a scar from a burn.
+arcc_test_1002,arcc_test_1002_orig,original_public,A,D,0,1,D. Paper cannot be reused.
+arcc_test_1002,arcc_test_1002_v1,fresh_variant_1,A,A,1,1,A. Paper comes from a renewable resource.
+arcc_test_1002,arcc_test_1002_v2,fresh_variant_2,A,A,1,1,A. Paper comes from a renewable resource.
+arcc_test_1005,arcc_test_1005_orig,original_public,D,D,1,1,D. Plants make sugar in the presence of light.
+arcc_test_1005,arcc_test_1005_v1,fresh_variant_1,D,D,1,1,D. Plants make sugar in the presence of light.
+arcc_test_1005,arcc_test_1005_v2,fresh_variant_2,D,D,1,1,D. Plants make sugar in the presence of light.
+arcc_test_1008,arcc_test_1008_orig,original_public,A,A,1,1,A. diverging continental plates
+arcc_test_1008,arcc_test_1008_v1,fresh_variant_1,A,A,1,1,A. diverging continental plates
+arcc_test_1008,arcc_test_1008_v2,fresh_variant_2,A,A,1,1,A. diverging continental plates
+arcc_test_1011,arcc_test_1011_orig,original_public,A,A,1,1,A. Heat moves from her hand to the ice cube.
+arcc_test_1011,arcc_test_1011_v1,fresh_variant_1,A,A,1,1,A. Heat moves from her hand to the ice cube.
+arcc_test_1011,arcc_test_1011_v2,fresh_variant_2,A,A,1,1,A. Heat moves from her hand to the ice cube.
+arcc_test_1013,arcc_test_1013_orig,original_public,A,A,1,1,A. lightning.
+arcc_test_1013,arcc_test_1013_v1,fresh_variant_1,A,A,1,1,A. lightning.
+arcc_test_1013,arcc_test_1013_v2,fresh_variant_2,A,A,1,1,A. lightning.
+arcc_test_1015,arcc_test_1015_orig,original_public,D,D,1,1,D. Only plant cells can perform photosynthesis.
+arcc_test_1015,arcc_test_1015_v1,fresh_variant_1,D,D,1,1,D. Only plant cells can perform photosynthesis.
+arcc_test_1015,arcc_test_1015_v2,fresh_variant_2,D,D,1,1,D. Only plant cells can perform photosynthesis.
+arcc_test_1022,arcc_test_1022_orig,original_public,D,D,1,1,"D. cigarettes, chewing tobacco, and snuff"
+arcc_test_1022,arcc_test_1022_v1,fresh_variant_1,D,D,1,1,"D. cigarettes, chewing tobacco, and snuff"
+arcc_test_1022,arcc_test_1022_v2,fresh_variant_2,D,D,1,1,"D. cigarettes, chewing tobacco, and snuff"
+arcc_test_1023,arcc_test_1023_orig,original_public,D,D,1,1,D. southwest
+arcc_test_1023,arcc_test_1023_v1,fresh_variant_1,D,D,1,1,D. southwest
+arcc_test_1023,arcc_test_1023_v2,fresh_variant_2,D,D,1,1,D. southwest
+arcc_test_1039,arcc_test_1039_orig,original_public,B,C,0,1,C. the presence of gravitational force
+arcc_test_1039,arcc_test_1039_v1,fresh_variant_1,B,C,0,1,C. the presence of gravitational force
+arcc_test_1039,arcc_test_1039_v2,fresh_variant_2,B,C,0,1,C. the presence of gravitational force
+arcc_test_1041,arcc_test_1041_orig,original_public,B,B,1,1,B. Repeat the same experiment several times.
+arcc_test_1041,arcc_test_1041_v1,fresh_variant_1,B,B,1,1,B. Repeat the same experiment several times.
+arcc_test_1041,arcc_test_1041_v2,fresh_variant_2,B,B,1,1,B. Repeat the same experiment several times.
+arcc_test_1044,arcc_test_1044_orig,original_public,A,C,0,1,C
+arcc_test_1044,arcc_test_1044_v1,fresh_variant_1,A,A,1,1,A
+arcc_test_1044,arcc_test_1044_v2,fresh_variant_2,A,C,0,1,C
+arcc_test_1045,arcc_test_1045_orig,original_public,B,B,1,1,B. They follow the shape of the adjacent tectonic plates under the sea.
+arcc_test_1045,arcc_test_1045_v1,fresh_variant_1,B,B,1,1,B. They follow the shape of the adjacent tectonic plates under the sea.
+arcc_test_1045,arcc_test_1045_v2,fresh_variant_2,B,B,1,1,B. They follow the shape of the adjacent tectonic plates under the sea.
+arcc_test_1053,arcc_test_1053_orig,original_public,A,D,0,1,D. have the same number of protons.
+arcc_test_1053,arcc_test_1053_v1,fresh_variant_1,A,D,0,1,D. have the same number of protons.
+arcc_test_1053,arcc_test_1053_v2,fresh_variant_2,A,D,0,1,D. have the same number of protons.
+arcc_test_1056,arcc_test_1056_orig,original_public,A,B,0,1,B. skeletal
+arcc_test_1056,arcc_test_1056_v1,fresh_variant_1,A,B,0,1,B. skeletal
+arcc_test_1056,arcc_test_1056_v2,fresh_variant_2,A,B,0,1,B. skeletal
+arcc_test_1062,arcc_test_1062_orig,original_public,B,D,0,1,D. motion of tectonic plates
+arcc_test_1062,arcc_test_1062_v1,fresh_variant_1,B,D,0,1,D. motion of tectonic plates
+arcc_test_1062,arcc_test_1062_v2,fresh_variant_2,B,D,0,1,D. motion of tectonic plates
+arcc_test_1067,arcc_test_1067_orig,original_public,D,D,1,1,D. eukaryote.
+arcc_test_1067,arcc_test_1067_v1,fresh_variant_1,D,D,1,1,D. eukaryote.
+arcc_test_1067,arcc_test_1067_v2,fresh_variant_2,D,D,1,1,D. eukaryote.
+arcc_test_1070,arcc_test_1070_orig,original_public,D,D,1,1,D. The temperature of the ocean remains fairly constant.
+arcc_test_1070,arcc_test_1070_v1,fresh_variant_1,D,D,1,1,D. The temperature of the ocean remains fairly constant.
+arcc_test_1070,arcc_test_1070_v2,fresh_variant_2,D,D,1,1,D. The temperature of the ocean remains fairly constant.
+arcc_test_1071,arcc_test_1071_orig,original_public,A,B,0,1,B. lakes
+arcc_test_1071,arcc_test_1071_v1,fresh_variant_1,A,B,0,1,B. lakes
+arcc_test_1071,arcc_test_1071_v2,fresh_variant_2,A,B,0,1,B. lakes
+arcc_test_1083,arcc_test_1083_orig,original_public,A,B,0,1,B. What is the volume of the liquid?
+arcc_test_1083,arcc_test_1083_v1,fresh_variant_1,A,B,0,1,B. What is the volume of the liquid?
+arcc_test_1083,arcc_test_1083_v2,fresh_variant_2,A,B,0,1,B. What is the volume of the liquid?
+arcc_test_1088,arcc_test_1088_orig,original_public,A,A,1,1,A. a decrease in air pollution
+arcc_test_1088,arcc_test_1088_v1,fresh_variant_1,A,A,1,1,A. a decrease in air pollution
+arcc_test_1088,arcc_test_1088_v2,fresh_variant_2,A,A,1,1,A. a decrease in air pollution
+arcc_test_1090,arcc_test_1090_orig,original_public,A,C,0,1,C. Liquid changes to gas.
+arcc_test_1090,arcc_test_1090_v1,fresh_variant_1,A,C,0,1,C. Liquid changes to gas.
+arcc_test_1090,arcc_test_1090_v2,fresh_variant_2,A,A,1,1,A. Gas changes to liquid.
+arcc_test_1107,arcc_test_1107_orig,original_public,B,B,1,1,B. dairy products
+arcc_test_1107,arcc_test_1107_v1,fresh_variant_1,B,B,1,1,B. dairy products
+arcc_test_1107,arcc_test_1107_v2,fresh_variant_2,B,B,1,1,B. dairy products
+arcc_test_1110,arcc_test_1110_orig,original_public,D,C,0,1,C
+arcc_test_1110,arcc_test_1110_v1,fresh_variant_1,D,B,0,1,B
+arcc_test_1110,arcc_test_1110_v2,fresh_variant_2,D,D,1,1,D
+arcc_test_1111,arcc_test_1111_orig,original_public,C,C,1,1,C
+arcc_test_1111,arcc_test_1111_v1,fresh_variant_1,C,C,1,1,C. Record daily information in a data table.
+arcc_test_1111,arcc_test_1111_v2,fresh_variant_2,C,C,1,1,C
+arcc_test_1116,arcc_test_1116_orig,original_public,D,D,1,1,D. a large jar with air holes in the top
+arcc_test_1116,arcc_test_1116_v1,fresh_variant_1,D,D,1,1,D. a large jar with air holes in the top
+arcc_test_1116,arcc_test_1116_v2,fresh_variant_2,D,D,1,1,D. a large jar with air holes in the top
+arcc_test_1122,arcc_test_1122_orig,original_public,A,A,1,1,A. grows and changes.
+arcc_test_1122,arcc_test_1122_v1,fresh_variant_1,A,A,1,1,A. grows and changes.
+arcc_test_1122,arcc_test_1122_v2,fresh_variant_2,A,A,1,1,A. grows and changes.
+arcc_test_1129,arcc_test_1129_orig,original_public,B,B,1,1,B. The availability of clean resources will increase.
+arcc_test_1129,arcc_test_1129_v1,fresh_variant_1,B,B,1,1,B. The availability of clean resources will increase.
+arcc_test_1129,arcc_test_1129_v2,fresh_variant_2,B,B,1,1,B. The availability of clean resources will increase.
+arcc_test_1131,arcc_test_1131_orig,original_public,D,C,0,1,C. winds spiraling downward and away from the center of a storm
+arcc_test_1131,arcc_test_1131_v1,fresh_variant_1,D,D,1,1,D. air moving toward the center of a storm and rising into the atmosphere
+arcc_test_1131,arcc_test_1131_v2,fresh_variant_2,D,C,0,1,C. winds spiraling downward and away from the center of a storm
+arcc_test_1141,arcc_test_1141_orig,original_public,D,D,1,1,D. replanting trees in deforested areas
+arcc_test_1141,arcc_test_1141_v1,fresh_variant_1,D,D,1,1,D. replanting trees in deforested areas
+arcc_test_1141,arcc_test_1141_v2,fresh_variant_2,D,D,1,1,D. replanting trees in deforested areas
+arcc_test_1142,arcc_test_1142_orig,original_public,D,D,1,1,D. A liquid changes to a solid.
+arcc_test_1142,arcc_test_1142_v1,fresh_variant_1,D,D,1,1,D. A liquid changes to a solid.
+arcc_test_1142,arcc_test_1142_v2,fresh_variant_2,D,D,1,1,D. A liquid changes to a solid.
+arcc_test_1147,arcc_test_1147_orig,original_public,C,B,0,1,B. to ensure that the bus will be easy to replace
+arcc_test_1147,arcc_test_1147_v1,fresh_variant_1,C,B,0,1,B. to ensure that the bus will be easy to replace
+arcc_test_1147,arcc_test_1147_v2,fresh_variant_2,C,B,0,1,B. to ensure that the bus will be easy to replace
+arcc_test_1148,arcc_test_1148_orig,original_public,B,B,1,1,B. Stay with a classmate at all times.
+arcc_test_1148,arcc_test_1148_v1,fresh_variant_1,B,B,1,1,B. Stay with a classmate at all times.
+arcc_test_1148,arcc_test_1148_v2,fresh_variant_2,B,B,1,1,B. Stay with a classmate at all times.
+arcc_test_1164,arcc_test_1164_orig,original_public,A,D,0,1,D. a solar system
+arcc_test_1164,arcc_test_1164_v1,fresh_variant_1,A,D,0,1,D. a solar system
+arcc_test_1164,arcc_test_1164_v2,fresh_variant_2,A,D,0,1,D. a solar system

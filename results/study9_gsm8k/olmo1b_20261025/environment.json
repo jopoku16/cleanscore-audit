@@ -1,0 +1,12 @@
+{
+  "model": "/kaggle/temp/exposed",
+  "revision": "main",
+  "n_parameters": 1484916736,
+  "torch": "2.11.0+cu128",
+  "python": "3.13.15",
+  "cuda_device": "Tesla T4",
+  "gen_batch": 8,
+  "max_new_tokens": 320,
+  "decoding": "greedy",
+  "amended_parser": false
+}

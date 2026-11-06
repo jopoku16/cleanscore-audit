@@ -1,0 +1,11 @@
+{
+  "model": "allenai/OLMo-2-1124-7B-Instruct",
+  "revision": "470b1fba1ae01581f270116362ee4aa1b97f4c84",
+  "n_parameters": 7298617344,
+  "torch": "2.10.0+cu128",
+  "python": "3.12.13",
+  "cuda_device": "Tesla T4",
+  "gen_batch": 2,
+  "max_new_tokens": 320,
+  "decoding": "greedy"
+}

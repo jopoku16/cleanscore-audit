@@ -1,0 +1,9 @@
+domain,n_audited,type_I_error
+gsm8k,50,0.0285
+gsm8k,100,0.044
+gsm8k,200,0.038
+gsm8k,400,0.0515
+arc,50,0.0325
+arc,100,0.0385
+arc,200,0.0395
+arc,400,0.034

@@ -1,0 +1,29 @@
+{
+  "n_seeds": 4,
+  "floor": 0.05,
+  "spread_tolerance": 0.1,
+  "did_P": {
+    "mean": 0.4825,
+    "min": 0.46,
+    "max": 0.5,
+    "spread": 0.04,
+    "sd": 0.0171
+  },
+  "did_F": {
+    "mean": 0.505,
+    "min": 0.495,
+    "max": 0.51,
+    "spread": 0.015,
+    "sd": 0.0071
+  },
+  "did_G": {
+    "mean": 0.2039,
+    "min": 0.1785,
+    "max": 0.2379,
+    "spread": 0.0593,
+    "sd": 0.025
+  },
+  "all_manipulations_passed": true,
+  "deep_arm_positive_on_every_seed": true,
+  "registered_verdict": "optimisation variability is small relative to the planted effect: the four public-form estimates span 0.040, inside the registered 0.1, so the parent bootstrap was not badly understating uncertainty and Sections 7.13 and 7.14 stand with the spread reported"
+}

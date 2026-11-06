@@ -1,0 +1,11 @@
+model,domain,n_control,b_c,wald_half,wald_lo,wald_hi,wald_excludes_zero,hoeffding_half,hoeffding_lo,hoeffding_hi,hoeffding_excludes_zero,fixed_half,fixed_lo,fixed_hi,fixed_excludes_zero
+allenai/OLMo-2-1124-7B-Instruct,gsm8k,60,0.0167,0.0921,-0.1655,0.1622,False,0.3822,-0.4555,0.4522,False,0.0,-0.0734,0.07,False
+allenai/OLMo-2-1124-7B-Instruct,arc,40,0.0125,0.1169,-0.1773,0.1873,False,0.4681,-0.5285,0.5385,False,0.0,-0.0604,0.0704,False
+HuggingFaceTB/SmolLM2-1.7B-Instruct,gsm8k,60,0.0,0.1358,-0.1768,0.2668,False,0.3822,-0.4231,0.5131,False,0.0,-0.0409,0.1309,False
+HuggingFaceTB/SmolLM2-1.7B-Instruct,arc,40,-0.0875,0.1262,-0.0751,0.2801,False,0.4681,-0.417,0.622,False,0.0,0.0511,0.1539,True
+microsoft/Phi-3-mini-4k-instruct,gsm8k,60,0.0083,0.0565,-0.1069,0.1253,False,0.3822,-0.4327,0.451,False,0.0,-0.0505,0.0688,False
+microsoft/Phi-3-mini-4k-instruct,arc,40,0.0,0.1204,-0.1748,0.1698,False,0.4681,-0.5225,0.5175,False,0.0,-0.0544,0.0494,False
+Qwen/Qwen2.5-1.5B-Instruct,gsm8k,60,0.0333,0.1061,-0.2469,0.1302,False,0.3822,-0.5229,0.4063,False,0.0,-0.1407,0.0241,False
+Qwen/Qwen2.5-1.5B-Instruct,arc,40,0.025,0.1058,-0.191,0.126,False,0.4681,-0.5533,0.4883,False,0.0,-0.0852,0.0202,False
+Qwen/Qwen2.5-7B-Instruct,gsm8k,60,-0.0167,0.0594,-0.122,0.1453,False,0.3822,-0.4448,0.4681,False,0.0,-0.0626,0.0859,False
+Qwen/Qwen2.5-7B-Instruct,arc,40,0.025,0.0979,-0.1513,0.1663,False,0.4681,-0.5215,0.5365,False,0.0,-0.0535,0.0685,False

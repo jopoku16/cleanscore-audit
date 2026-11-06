@@ -1,0 +1,10 @@
+{
+  "registered_success_criterion": "exposed Delta-hat positive, primary interval excludes zero, claim rule fires, while the base model's does not",
+  "exposed_claim_fires": false,
+  "base_claim_fires": false,
+  "outcome": "failure",
+  "delta_exposed_minus_base": 0.0,
+  "exposed_minus_unexposed_within_model": 0.03,
+  "public_accuracy_change": 0.0,
+  "fresh_accuracy_change": 0.0
+}

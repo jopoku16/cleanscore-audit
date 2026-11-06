@@ -1,0 +1,13 @@
+{
+  "flagged": {
+    "arcc_test_0407": "key and a distractor both read as a conclusion",
+    "arcc_test_0699": "the key restates the stem",
+    "arcc_test_0677": "a distractor may have widened into a second correct answer"
+  },
+  "n_flagged": 3,
+  "largest_absolute_shift": 0.0051,
+  "all_shifts_positive": true,
+  "still_positive_on_every_seed": true,
+  "bank_edited": false,
+  "note": "the bank was not modified; the three items remain in it and the published estimates are unchanged"
+}
